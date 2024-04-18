@@ -1,0 +1,51 @@
+{
+	"girlfriend": [
+		695,
+		220
+	],
+	"boyfriend": [
+		901,
+		137
+	],
+	"isPixelStage": false,
+	"opponent": [
+		-217,
+		131
+	],
+	"directory": "",
+	"defaultZoom": 0.8,
+	"layers": [
+		{
+			"onFront": false,
+			"image": "backgrounds/Exe",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "Exe",
+			"animation": "",
+			"offset": [
+				-732,
+				-411
+			],
+			"scale": 1
+		},
+		{
+			"onFront": false,
+			"image": "backgrounds/tailscorpse",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "tailscorpse",
+			"animation": "",
+			"offset": [
+				181,
+				421
+			],
+			"scale": 1
+		}
+	]
+}
