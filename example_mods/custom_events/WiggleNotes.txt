@@ -1,0 +1,5 @@
+Value 1: Note wiggle frequency 
+low for sqashed, higher for stretched
+
+Value 2: Note wiggle amp
+low for subtle, high for extreme
