@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fatal-static.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static0000" x="4" y="4" width="1280" height="720"/>
+	<SubTexture name="static0001" x="1288" y="4" width="1280" height="720"/>
+	<SubTexture name="static0002" x="2572" y="4" width="1280" height="720"/>
+	<SubTexture name="static0003" x="4" y="728" width="1280" height="720"/>
+	<SubTexture name="static0004" x="1288" y="728" width="1280" height="720"/>
+	<SubTexture name="static0005" x="2572" y="728" width="1280" height="720"/>
+	<SubTexture name="static0006" x="4" y="1452" width="1280" height="720"/>
+	<SubTexture name="static0007" x="1288" y="1452" width="1280" height="720"/>
+	<SubTexture name="static0008" x="2572" y="1452" width="1280" height="720"/>
+	<SubTexture name="static0009" x="4" y="2176" width="1280" height="720"/>
+	<SubTexture name="static0010" x="1288" y="728" width="1280" height="720"/>
+	<SubTexture name="static0011" x="2572" y="728" width="1280" height="720"/>
+	<SubTexture name="static0012" x="1288" y="728" width="1280" height="720"/>
+	<SubTexture name="static0013" x="1288" y="2176" width="1280" height="720"/>
+	<SubTexture name="static0014" x="2572" y="2176" width="1280" height="720"/>
+	<SubTexture name="static0015" x="2572" y="2176" width="1280" height="720"/>
+	<SubTexture name="static0016" x="2572" y="2176" width="1280" height="720"/>
+</TextureAtlas>

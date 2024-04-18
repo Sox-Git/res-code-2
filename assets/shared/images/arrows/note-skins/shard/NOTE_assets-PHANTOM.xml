@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets-PHANTOM.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="4" y="4" width="191" height="179"/>
+	<SubTexture name="green0000" x="199" y="4" width="185" height="173"/>
+	<SubTexture name="purple0000" x="4" y="187" width="188" height="200"/>
+	<SubTexture name="red0000" x="196" y="187" width="194" height="206"/>
+</TextureAtlas>
