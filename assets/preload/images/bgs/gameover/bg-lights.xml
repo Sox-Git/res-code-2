@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg-lights.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="4" y="4" width="3401" height="2611"/>
+	<SubTexture name="idle0001" x="3409" y="4" width="3400" height="2549" frameX="0" frameY="-62" frameWidth="3401" frameHeight="2611"/>
+	<SubTexture name="idle0002" x="4" y="2619" width="3400" height="2549" frameX="0" frameY="-62" frameWidth="3401" frameHeight="2611"/>
+	<SubTexture name="idle0003" x="3408" y="2619" width="3400" height="2549" frameX="0" frameY="-62" frameWidth="3401" frameHeight="2611"/>
+</TextureAtlas>

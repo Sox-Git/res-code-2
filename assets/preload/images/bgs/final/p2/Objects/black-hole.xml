@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="black-hole.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black-hole0000" x="4" y="4" width="1270" height="821"/>
+	<SubTexture name="black-hole0001" x="4" y="4" width="1270" height="821"/>
+	<SubTexture name="black-hole0002" x="1278" y="4" width="1270" height="821"/>
+	<SubTexture name="black-hole0003" x="1278" y="4" width="1270" height="821"/>
+	<SubTexture name="black-hole0004" x="2552" y="4" width="1270" height="821"/>
+	<SubTexture name="black-hole0005" x="2552" y="4" width="1270" height="821"/>
+	<SubTexture name="black-hole0006" x="4" y="829" width="1270" height="821"/>
+	<SubTexture name="black-hole0007" x="4" y="829" width="1270" height="821"/>
+	<SubTexture name="black-hole0008" x="1278" y="829" width="1270" height="821"/>
+	<SubTexture name="black-hole0009" x="1278" y="829" width="1270" height="821"/>
+</TextureAtlas>

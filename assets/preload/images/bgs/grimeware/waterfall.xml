@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="waterfall.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="waterfall0000" x="4" y="4" width="3199" height="7178" frameX="0" frameY="0" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0001" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-242" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0002" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-484" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0003" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-726" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0004" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-968" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0005" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-1211" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0006" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-1453" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0007" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-1695" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0008" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-1937" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0009" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-2179" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0010" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-2421" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0011" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-2663" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0012" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-2905" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0013" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-3147" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0014" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-3389" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0015" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-3631" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0016" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-3873" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0017" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-4115" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0018" x="3207" y="4" width="3199" height="7178" frameX="0" frameY="-4357" frameWidth="3200" frameHeight="11777"/>
+	<SubTexture name="waterfall0019" x="3207" y="4" width="3199" height="7178" frameX="-1" frameY="-4599" frameWidth="3200" frameHeight="11777"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Grimbo the Luis.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Grimbo/Luis0000" x="245" y="225" width="244" height="213" frameX="-8" frameY="-10" frameWidth="254" frameHeight="226"/>
+	<SubTexture name="Grimbo/Luis0001" x="0" y="225" width="245" height="221" frameX="-7" frameY="-3" frameWidth="254" frameHeight="226"/>
+	<SubTexture name="Grimbo/Luis0002" x="0" y="0" width="246" height="225" frameX="-5" frameY="2" frameWidth="254" frameHeight="226"/>
+	<SubTexture name="Grimbo/Luis0003" x="246" y="0" width="244" height="222" frameX="-7" frameY="-1" frameWidth="254" frameHeight="226"/>
+</TextureAtlas>

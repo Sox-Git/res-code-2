@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Krimyway.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="OMW0000" x="2270" y="0" width="1135" height="1482" frameX="-54" frameY="2" frameWidth="1296" frameHeight="1615"/>
+	<SubTexture name="OMW0001" x="0" y="0" width="1135" height="1482" frameX="-54" frameY="2" frameWidth="1296" frameHeight="1615"/>
+	<SubTexture name="OMW0002" x="0" y="1482" width="1135" height="1482" frameX="-54" frameY="2" frameWidth="1296" frameHeight="1615"/>
+	<SubTexture name="OMW0003" x="1135" y="0" width="1135" height="1482" frameX="-54" frameY="2" frameWidth="1296" frameHeight="1615"/>
+</TextureAtlas>

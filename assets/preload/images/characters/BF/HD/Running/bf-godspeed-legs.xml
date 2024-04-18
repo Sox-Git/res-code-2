@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-godspeed-legs.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="run0000" x="4" y="4" width="397" height="201" frameX="-33" frameY="-52" frameWidth="476" frameHeight="279"/>
+	<SubTexture name="run0001" x="405" y="4" width="433" height="238" frameX="-16" frameY="-33" frameWidth="476" frameHeight="279"/>
+	<SubTexture name="run0002" x="4" y="246" width="439" height="276" frameX="-15" frameY="0" frameWidth="476" frameHeight="279"/>
+	<SubTexture name="run0003" x="447" y="246" width="476" height="191" frameX="0" frameY="-88" frameWidth="476" frameHeight="279"/>
+</TextureAtlas>

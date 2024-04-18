@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HoggedGF.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DanceLeft0000" x="0" y="2960" width="715" height="981" frameX="-2" frameY="-11" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceLeft0001" x="1434" y="1960" width="715" height="980" frameX="0" frameY="-12" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceLeft0002" x="1434" y="979" width="715" height="981" frameX="-2" frameY="-11" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceLeft0003" x="0" y="1975" width="716" height="985" frameX="-9" frameY="-6" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceLeft0004" x="717" y="0" width="717" height="989" frameX="-15" frameY="-2" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceLeft0005" x="0" y="0" width="717" height="990" frameX="-17" frameY="0" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceLeft0006" x="0" y="0" width="717" height="990" frameX="-17" frameY="0" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceLeft0007" x="0" y="0" width="717" height="990" frameX="-17" frameY="0" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceRight0000" x="716" y="1978" width="718" height="981" frameX="-7" frameY="-11" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="DanceRight0001" x="1434" y="0" width="718" height="979" frameX="-9" frameY="-13" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="DanceRight0002" x="716" y="2959" width="718" height="981" frameX="-8" frameY="-11" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="DanceRight0003" x="0" y="990" width="717" height="985" frameX="-5" frameY="-6" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="DanceRight0004" x="717" y="989" width="717" height="989" frameX="-1" frameY="-2" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="DanceRight0005" x="0" y="0" width="717" height="990" frameX="0" frameY="0" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceRight0006" x="0" y="0" width="717" height="990" frameX="0" frameY="0" frameWidth="734" frameHeight="992"/>
+	<SubTexture name="DanceRight0007" x="0" y="0" width="717" height="990" frameX="0" frameY="0" frameWidth="734" frameHeight="992"/>
+</TextureAtlas>

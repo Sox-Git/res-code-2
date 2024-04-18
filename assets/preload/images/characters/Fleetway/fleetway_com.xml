@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fleetway_com.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cooking0000" x="0" y="0" width="365" height="316"/>
+	<SubTexture name="cooking0001" x="365" y="0" width="365" height="316"/>
+	<SubTexture name="cooking0002" x="730" y="0" width="365" height="316"/>
+	<SubTexture name="cooking0003" x="1095" y="0" width="365" height="316"/>
+	<SubTexture name="cooking0004" x="1460" y="0" width="365" height="316"/>
+	<SubTexture name="cooking0005" x="1460" y="0" width="365" height="316"/>
+	<SubTexture name="cooking0006" x="0" y="316" width="365" height="316"/>
+	<SubTexture name="cooking0007" x="365" y="316" width="365" height="316"/>
+	<SubTexture name="cooking0008" x="730" y="316" width="365" height="316"/>
+	<SubTexture name="cooking0009" x="1095" y="316" width="365" height="316"/>
+	<SubTexture name="cooking0010" x="1460" y="316" width="365" height="316"/>
+	<SubTexture name="cooking0011" x="0" y="632" width="365" height="316"/>
+	<SubTexture name="cooking0012" x="365" y="632" width="365" height="316"/>
+	<SubTexture name="cooking0013" x="730" y="632" width="365" height="316"/>
+	<SubTexture name="cooking0014" x="1095" y="632" width="365" height="316"/>
+	<SubTexture name="cooking0015" x="1460" y="632" width="365" height="316"/>
+	<SubTexture name="cooking0016" x="0" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0017" x="365" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0018" x="730" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0019" x="1095" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0020" x="1460" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0021" x="1095" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0022" x="0" y="1264" width="365" height="316"/>
+	<SubTexture name="cooking0023" x="1095" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0024" x="1095" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0025" x="1095" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0026" x="1095" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0027" x="1095" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0028" x="1095" y="948" width="365" height="316"/>
+	<SubTexture name="cooking0029" x="365" y="1264" width="365" height="316"/>
+	<SubTexture name="cooking0030" x="730" y="1264" width="365" height="316"/>
+	<SubTexture name="cooking0031" x="1095" y="1264" width="365" height="316"/>
+	<SubTexture name="cooking0032" x="1460" y="1264" width="365" height="316"/>
+	<SubTexture name="cooking0033" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0034" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0035" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0036" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0037" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0038" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0039" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0040" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0041" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0042" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0043" x="0" y="1580" width="365" height="316"/>
+	<SubTexture name="cooking0044" x="0" y="1580" width="365" height="316"/>
+</TextureAtlas>

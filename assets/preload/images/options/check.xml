@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="check.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="check0000" x="4" y="4" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0001" x="4" y="4" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0002" x="94" y="4" width="88" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0003" x="186" y="4" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0004" x="276" y="4" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0005" x="366" y="4" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0006" x="4" y="94" width="90" height="86" frameX="-4" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0007" x="98" y="94" width="100" height="87"/>
+	<SubTexture name="check0008" x="202" y="94" width="95" height="86" frameX="-2" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0009" x="301" y="94" width="91" height="86" frameX="-4" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0010" x="301" y="94" width="91" height="86" frameX="-4" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0011" x="301" y="94" width="91" height="86" frameX="-4" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0012" x="396" y="94" width="94" height="86" frameX="-2" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0013" x="4" y="185" width="97" height="86" frameX="-1" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0014" x="105" y="185" width="91" height="86" frameX="-4" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0015" x="200" y="185" width="87" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0016" x="291" y="185" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0017" x="381" y="185" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0018" x="4" y="275" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0019" x="94" y="275" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+	<SubTexture name="check0020" x="4" y="4" width="86" height="86" frameX="-5" frameY="0" frameWidth="100" frameHeight="87"/>
+</TextureAtlas>

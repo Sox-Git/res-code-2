@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="majin-left.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="4" y="4" width="581" height="681" frameX="-9" frameY="0" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0001" x="589" y="4" width="577" height="678" frameX="-6" frameY="-3" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0002" x="1170" y="4" width="574" height="676" frameX="-3" frameY="-5" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0003" x="4" y="689" width="566" height="671" frameX="-1" frameY="-10" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0004" x="574" y="689" width="566" height="671" frameX="-1" frameY="-10" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0005" x="574" y="689" width="566" height="671" frameX="-1" frameY="-10" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0006" x="574" y="689" width="566" height="671" frameX="-1" frameY="-10" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0007" x="574" y="689" width="566" height="671" frameX="-1" frameY="-10" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0008" x="574" y="689" width="566" height="671" frameX="-1" frameY="-10" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0009" x="574" y="689" width="566" height="671" frameX="-1" frameY="-10" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0010" x="574" y="689" width="566" height="671" frameX="-1" frameY="-10" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0011" x="1144" y="689" width="571" height="674" frameX="0" frameY="-7" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0012" x="4" y="1367" width="574" height="675" frameX="-2" frameY="-6" frameWidth="590" frameHeight="681"/>
+	<SubTexture name="idle0013" x="582" y="1367" width="579" height="678" frameX="-3" frameY="-3" frameWidth="590" frameHeight="681"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitch-1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glitch-10000" x="4" y="4" width="147" height="137" frameX="-57" frameY="-23" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10001" x="4" y="4" width="147" height="137" frameX="-57" frameY="-23" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10002" x="155" y="4" width="204" height="183" frameX="0" frameY="-8" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10003" x="155" y="4" width="204" height="183" frameX="0" frameY="-8" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10004" x="4" y="191" width="224" height="171" frameX="-15" frameY="0" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10005" x="4" y="191" width="224" height="171" frameX="-15" frameY="0" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10006" x="4" y="4" width="147" height="137" frameX="-57" frameY="-23" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10007" x="4" y="4" width="147" height="137" frameX="-57" frameY="-23" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10008" x="4" y="191" width="224" height="171" frameX="-15" frameY="0" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10009" x="4" y="191" width="224" height="171" frameX="-15" frameY="0" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10010" x="155" y="4" width="204" height="183" frameX="0" frameY="-8" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10011" x="155" y="4" width="204" height="183" frameX="0" frameY="-8" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10012" x="4" y="191" width="224" height="171" frameX="-15" frameY="0" frameWidth="239" frameHeight="191"/>
+	<SubTexture name="glitch-10013" x="4" y="191" width="224" height="171" frameX="-15" frameY="0" frameWidth="239" frameHeight="191"/>
+</TextureAtlas>

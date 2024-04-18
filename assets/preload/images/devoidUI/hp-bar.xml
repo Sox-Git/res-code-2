@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hp-bar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0.050000" x="4" y="4" width="536" height="370"/>
+	<SubTexture name="0.10000" x="544" y="4" width="536" height="370"/>
+	<SubTexture name="0.20000" x="1084" y="4" width="536" height="370"/>
+	<SubTexture name="0.30000" x="4" y="378" width="536" height="370"/>
+	<SubTexture name="0.40000" x="544" y="378" width="536" height="370"/>
+	<SubTexture name="0.50000" x="1084" y="378" width="536" height="370"/>
+	<SubTexture name="0.60000" x="4" y="752" width="536" height="370"/>
+	<SubTexture name="0.70000" x="544" y="752" width="536" height="370"/>
+	<SubTexture name="0.80000" x="1084" y="752" width="536" height="370"/>
+	<SubTexture name="0.90000" x="4" y="1126" width="536" height="370"/>
+	<SubTexture name="10000" x="544" y="1126" width="536" height="370"/>
+</TextureAtlas>

@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lukas.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lukas down0000" x="4" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0001" x="625" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0002" x="1246" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0003" x="1246" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0004" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0005" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0006" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0007" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0008" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0009" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0010" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0011" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0012" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0013" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0014" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0015" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0016" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0017" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0018" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0019" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0020" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0021" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0022" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0023" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0024" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0025" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0026" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0027" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0028" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0029" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0030" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0031" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0032" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0033" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0034" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0035" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0036" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0037" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0038" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0039" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0040" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0041" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0042" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0043" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0044" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0045" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0046" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0047" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0048" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas down0049" x="1867" y="4" width="617" height="930"/>
+	<SubTexture name="lukas idle0000" x="2488" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0001" x="2488" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0002" x="3090" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0003" x="3090" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0004" x="3692" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0005" x="3692" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0006" x="4294" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0007" x="4294" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0008" x="4896" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0009" x="4896" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0010" x="4896" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0011" x="4896" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0012" x="4896" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0013" x="4896" y="4" width="598" height="962"/>
+	<SubTexture name="lukas idle0014" x="4896" y="4" width="598" height="962"/>
+	<SubTexture name="lukas leave0000" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0001" x="6069" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0002" x="6640" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0003" x="7211" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0004" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0005" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0006" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0007" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0008" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0009" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0010" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0011" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0012" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0013" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0014" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0015" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0016" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0017" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0018" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0019" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0020" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0021" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0022" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0023" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0024" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0025" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0026" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0027" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0028" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0029" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0030" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0031" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0032" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0033" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0034" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0035" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0036" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0037" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0038" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0039" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0040" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0041" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0042" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0043" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0044" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0045" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0046" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0047" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0048" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0049" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0050" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0051" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0052" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0053" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0054" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0055" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0056" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0057" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0058" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0059" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0060" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0061" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0062" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0063" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0064" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0065" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0066" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0067" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0068" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0069" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0070" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0071" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0072" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0073" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0074" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0075" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0076" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0077" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0078" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0079" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0080" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0081" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0082" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0083" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0084" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0085" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0086" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0087" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0088" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0089" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0090" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0091" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0092" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0093" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0094" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0095" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0096" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0097" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0098" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas leave0099" x="5498" y="4" width="567" height="962"/>
+	<SubTexture name="lukas left0000" x="4" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0001" x="611" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0002" x="1218" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0003" x="1218" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0004" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0005" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0006" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0007" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0008" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0009" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0010" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0011" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0012" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0013" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0014" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0015" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0016" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0017" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0018" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0019" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0020" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0021" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0022" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0023" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0024" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0025" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0026" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0027" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0028" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0029" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0030" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0031" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0032" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0033" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0034" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0035" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0036" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0037" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0038" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0039" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0040" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0041" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0042" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0043" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0044" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0045" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0046" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0047" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0048" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas left0049" x="1825" y="970" width="603" height="940"/>
+	<SubTexture name="lukas miss down0000" x="2432" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0001" x="3061" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0002" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0003" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0004" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0005" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0006" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0007" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0008" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0009" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0010" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0011" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0012" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0013" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0014" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0015" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0016" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0017" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0018" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0019" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0020" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0021" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0022" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0023" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0024" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0025" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0026" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0027" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0028" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0029" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0030" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0031" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0032" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0033" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0034" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0035" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0036" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0037" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0038" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0039" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0040" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0041" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0042" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0043" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0044" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0045" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0046" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0047" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0048" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss down0049" x="3690" y="970" width="625" height="922"/>
+	<SubTexture name="lukas miss left0000" x="4319" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0001" x="4932" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0002" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0003" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0004" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0005" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0006" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0007" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0008" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0009" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0010" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0011" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0012" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0013" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0014" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0015" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0016" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0017" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0018" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0019" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0020" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0021" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0022" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0023" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0024" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0025" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0026" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0027" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0028" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0029" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0030" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0031" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0032" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0033" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0034" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0035" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0036" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0037" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0038" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0039" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0040" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0041" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0042" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0043" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0044" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0045" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0046" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0047" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0048" x="5545" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss left0049" x="6158" y="970" width="609" height="943"/>
+	<SubTexture name="lukas miss right0000" x="6771" y="970" width="578" height="956"/>
+	<SubTexture name="lukas miss right0001" x="7353" y="970" width="578" height="956"/>
+	<SubTexture name="lukas miss right0002" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0003" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0004" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0005" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0006" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0007" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0008" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0009" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0010" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0011" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0012" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0013" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0014" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0015" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0016" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0017" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0018" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0019" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0020" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0021" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0022" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0023" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0024" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0025" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0026" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0027" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0028" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0029" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0030" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0031" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0032" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0033" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0034" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0035" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0036" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0037" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0038" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0039" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0040" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0041" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0042" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0043" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0044" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0045" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0046" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0047" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0048" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss right0049" x="4" y="1930" width="578" height="956"/>
+	<SubTexture name="lukas miss up0000" x="586" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0001" x="1136" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0002" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0003" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0004" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0005" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0006" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0007" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0008" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0009" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0010" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0011" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0012" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0013" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0014" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0015" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0016" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0017" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0018" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0019" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0020" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0021" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0022" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0023" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0024" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0025" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0026" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0027" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0028" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0029" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0030" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0031" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0032" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0033" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0034" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0035" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0036" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0037" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0038" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0039" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0040" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0041" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0042" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0043" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0044" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0045" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0046" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0047" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0048" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas miss up0049" x="1686" y="1930" width="546" height="986"/>
+	<SubTexture name="lukas right0000" x="2236" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0001" x="2822" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0002" x="3408" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0003" x="3408" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0004" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0005" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0006" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0007" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0008" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0009" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0010" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0011" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0012" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0013" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0014" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0015" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0016" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0017" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0018" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0019" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0020" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0021" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0022" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0023" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0024" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0025" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0026" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0027" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0028" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0029" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0030" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0031" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0032" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0033" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0034" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0035" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0036" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0037" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0038" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0039" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0040" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0041" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0042" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0043" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0044" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0045" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0046" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0047" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0048" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas right0049" x="3994" y="1930" width="582" height="957"/>
+	<SubTexture name="lukas up0000" x="4580" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0001" x="5142" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0002" x="5704" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0003" x="5704" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0004" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0005" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0006" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0007" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0008" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0009" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0010" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0011" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0012" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0013" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0014" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0015" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0016" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0017" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0018" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0019" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0020" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0021" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0022" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0023" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0024" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0025" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0026" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0027" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0028" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0029" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0030" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0031" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0032" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0033" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0034" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0035" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0036" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0037" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0038" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0039" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0040" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0041" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0042" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0043" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0044" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0045" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0046" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0047" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0048" x="6266" y="1930" width="558" height="969"/>
+	<SubTexture name="lukas up0049" x="6266" y="1930" width="558" height="969"/>
+</TextureAtlas>

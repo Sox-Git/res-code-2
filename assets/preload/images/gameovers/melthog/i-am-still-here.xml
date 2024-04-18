@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="i-am-still-here.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shakin0000" x="4" y="4" width="204" height="24" frameX="-1" frameY="0" frameWidth="205" frameHeight="24"/>
+	<SubTexture name="shakin0001" x="4" y="32" width="205" height="22" frameX="0" frameY="-1" frameWidth="205" frameHeight="24"/>
+	<SubTexture name="shakin0002" x="4" y="58" width="204" height="24" frameX="-1" frameY="0" frameWidth="205" frameHeight="24"/>
+	<SubTexture name="shakin0003" x="4" y="86" width="205" height="23" frameX="0" frameY="-1" frameWidth="205" frameHeight="24"/>
+</TextureAtlas>

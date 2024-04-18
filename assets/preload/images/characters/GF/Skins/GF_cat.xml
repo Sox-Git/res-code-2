@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_cat.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Left0000" x="0" y="1814" width="482" height="919" frameX="-37" frameY="0" frameWidth="519" frameHeight="919"/>
+	<SubTexture name="Left0001" x="0" y="0" width="494" height="906" frameX="0" frameY="-13" frameWidth="519" frameHeight="919"/>
+	<SubTexture name="Left0002" x="0" y="906" width="491" height="908" frameX="-5" frameY="-11" frameWidth="519" frameHeight="919"/>
+	<SubTexture name="Left0003" x="481" y="2733" width="483" height="913" frameX="-18" frameY="-6" frameWidth="519" frameHeight="919"/>
+	<SubTexture name="Left0004" x="0" y="2733" width="481" height="918" frameX="-33" frameY="-1" frameWidth="519" frameHeight="919"/>
+	<SubTexture name="Left0005" x="0" y="1814" width="482" height="919" frameX="-37" frameY="0" frameWidth="519" frameHeight="919"/>
+	<SubTexture name="Right0000" x="0" y="1814" width="482" height="919" frameX="0" frameY="0" frameWidth="519" frameHeight="919"/>
+	<SubTexture name="Right0001" x="962" y="1813" width="472" height="900" frameX="-35" frameY="-19" frameWidth="507" frameHeight="919"/>
+	<SubTexture name="Right0002" x="491" y="910" width="473" height="903" frameX="-31" frameY="-16" frameWidth="507" frameHeight="919"/>
+	<SubTexture name="Right0003" x="494" y="0" width="476" height="910" frameX="-19" frameY="-9" frameWidth="507" frameHeight="919"/>
+	<SubTexture name="Right0004" x="482" y="1814" width="480" height="917" frameX="-5" frameY="-2" frameWidth="507" frameHeight="919"/>
+	<SubTexture name="Right0005" x="0" y="1814" width="482" height="919" frameX="0" frameY="0" frameWidth="519" frameHeight="919"/>
+</TextureAtlas>

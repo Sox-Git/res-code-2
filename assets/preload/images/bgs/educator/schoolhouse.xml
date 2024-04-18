@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="schoolhouse.png">
+<SubTexture name="anim first0000" x="0" y="0" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="540" />
+<SubTexture name="anim first0001" x="0" y="540" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="540" />
+<SubTexture name="anim first0002" x="0" y="1080" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="540" />
+<SubTexture name="anim second0000" x="0" y="1620" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="540" />
+<SubTexture name="anim second0001" x="0" y="2160" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="540" />
+<SubTexture name="anim second0002" x="0" y="2700" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="540" />
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nmi-tv.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tv-nmi0000" x="4" y="4" width="362" height="299"/>
+	<SubTexture name="tv-nmi0001" x="370" y="4" width="362" height="299"/>
+	<SubTexture name="tv-nmi0002" x="736" y="4" width="362" height="299"/>
+	<SubTexture name="tv-nmi0003" x="1102" y="4" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0000" x="1468" y="4" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0001" x="4" y="307" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0002" x="370" y="307" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0003" x="736" y="307" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0004" x="1102" y="307" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0005" x="1468" y="307" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0006" x="4" y="610" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0007" x="370" y="610" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0008" x="736" y="610" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0009" x="1102" y="610" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0010" x="1468" y="610" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0011" x="4" y="913" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0012" x="370" y="913" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0013" x="736" y="913" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0014" x="1102" y="913" width="362" height="299"/>
+	<SubTexture name="tv-nmi-flash0015" x="1468" y="913" width="362" height="299"/>
+</TextureAtlas>

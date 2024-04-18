@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KriMelthog.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Melthog0000" x="221" y="213" width="221" height="205" frameX="-8" frameY="-10" frameWidth="254" frameHeight="226"/>
+	<SubTexture name="Melthog0001" x="0" y="213" width="221" height="209" frameX="-8" frameY="-6" frameWidth="254" frameHeight="226"/>
+	<SubTexture name="Melthog0002" x="0" y="0" width="222" height="213" frameX="-8" frameY="-2" frameWidth="254" frameHeight="226"/>
+	<SubTexture name="Melthog0003" x="222" y="0" width="221" height="211" frameX="-8" frameY="-4" frameWidth="254" frameHeight="226"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-fatal.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf-dance0000" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="gf-dance0001" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="gf-dance0002" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="gf-dance0003" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="gf-dance0004" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="gf-dance0005" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="gf-dance0006" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="gf-dance0007" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="gf-dance0008" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="gf-dance0009" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="gf-dance0010" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="gf-dance0011" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="gf-dance0012" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="gf-dance0013" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="gf-dance0014" x="0" y="300" width="100" height="100"/>
+	<SubTexture name="gf-dance0015" x="0" y="300" width="100" height="100"/>
+	<SubTexture name="gf-dance0016" x="100" y="300" width="100" height="100"/>
+	<SubTexture name="gf-dance0017" x="100" y="300" width="100" height="100"/>
+	<SubTexture name="gf-dance0018" x="0" y="400" width="100" height="100"/>
+	<SubTexture name="gf-dance0019" x="0" y="400" width="100" height="100"/>
+	<SubTexture name="gf-dance0020" x="100" y="400" width="100" height="100"/>
+	<SubTexture name="gf-dance0021" x="100" y="400" width="100" height="100"/>
+	<SubTexture name="gf-dance0022" x="0" y="500" width="100" height="100"/>
+	<SubTexture name="gf-dance0023" x="0" y="500" width="100" height="100"/>
+</TextureAtlas>

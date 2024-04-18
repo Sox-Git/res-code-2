@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eyetoeye.png">
+<SubTexture name="eyetoeye idle0000" x="0" y="0" width="1200" height="720" frameX="0" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="eyetoeye idle0001" x="1200" y="0" width="1200" height="720" frameX="0" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="eyetoeye idle0002" x="0" y="720" width="1200" height="720" frameX="0" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="eyetoeye idle0003" x="1200" y="720" width="1200" height="720" frameX="0" frameY="0" frameWidth="1200" frameHeight="720" />
+</TextureAtlas>

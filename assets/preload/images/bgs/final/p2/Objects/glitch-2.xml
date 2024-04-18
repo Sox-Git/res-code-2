@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitch-2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glitch-20000" x="4" y="4" width="229" height="105" frameX="-60" frameY="-22" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20001" x="4" y="4" width="229" height="105" frameX="-60" frameY="-22" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20002" x="4" y="113" width="337" height="144" frameX="0" frameY="0" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20003" x="4" y="113" width="337" height="144" frameX="0" frameY="0" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20004" x="4" y="261" width="292" height="147" frameX="-33" frameY="-1" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20005" x="4" y="261" width="292" height="147" frameX="-33" frameY="-1" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20006" x="4" y="113" width="337" height="144" frameX="0" frameY="0" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20007" x="4" y="113" width="337" height="144" frameX="0" frameY="0" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20008" x="4" y="4" width="229" height="105" frameX="-60" frameY="-22" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20009" x="4" y="4" width="229" height="105" frameX="-60" frameY="-22" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20010" x="4" y="261" width="292" height="147" frameX="-33" frameY="-1" frameWidth="337" frameHeight="148"/>
+	<SubTexture name="glitch-20011" x="4" y="261" width="292" height="147" frameX="-33" frameY="-1" frameWidth="337" frameHeight="148"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eggy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="egg0000" x="4" y="4" width="885" height="432"/>
+	<SubTexture name="egg0001" x="4" y="4" width="885" height="432"/>
+	<SubTexture name="egg0002" x="4" y="4" width="885" height="432"/>
+	<SubTexture name="egg0003" x="893" y="4" width="569" height="279" frameX="-155" frameY="-63" frameWidth="885" frameHeight="432"/>
+	<SubTexture name="egg0004" x="893" y="4" width="569" height="279" frameX="-155" frameY="-63" frameWidth="885" frameHeight="432"/>
+	<SubTexture name="egg0005" x="893" y="4" width="569" height="279" frameX="-155" frameY="-63" frameWidth="885" frameHeight="432"/>
+	<SubTexture name="egg0006" x="1466" y="4" width="486" height="262" frameX="-195" frameY="-73" frameWidth="885" frameHeight="432"/>
+	<SubTexture name="egg0007" x="1466" y="4" width="486" height="262" frameX="-195" frameY="-73" frameWidth="885" frameHeight="432"/>
+	<SubTexture name="egg0008" x="1466" y="4" width="486" height="262" frameX="-195" frameY="-73" frameWidth="885" frameHeight="432"/>
+	<SubTexture name="egg0009" x="893" y="4" width="569" height="279" frameX="-155" frameY="-63" frameWidth="885" frameHeight="432"/>
+	<SubTexture name="egg0010" x="893" y="4" width="569" height="279" frameX="-155" frameY="-63" frameWidth="885" frameHeight="432"/>
+	<SubTexture name="egg0011" x="893" y="4" width="569" height="279" frameX="-155" frameY="-63" frameWidth="885" frameHeight="432"/>
+</TextureAtlas>

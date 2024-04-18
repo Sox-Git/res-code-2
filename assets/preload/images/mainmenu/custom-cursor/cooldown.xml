@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cooldown.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cooldown0000" x="4" y="4" width="262" height="140"/>
+	<SubTexture name="cooldown0001" x="270" y="4" width="262" height="140"/>
+	<SubTexture name="cooldown0002" x="536" y="4" width="262" height="140"/>
+	<SubTexture name="cooldown0003" x="802" y="4" width="262" height="140"/>
+	<SubTexture name="cooldown0004" x="1068" y="4" width="262" height="140"/>
+	<SubTexture name="cooldown0005" x="1334" y="4" width="262" height="140"/>
+	<SubTexture name="cooldown0006" x="1600" y="4" width="262" height="140"/>
+	<SubTexture name="cooldown0007" x="4" y="148" width="262" height="140"/>
+	<SubTexture name="cooldown0008" x="270" y="148" width="262" height="140"/>
+	<SubTexture name="cooldown0009" x="536" y="148" width="262" height="140"/>
+	<SubTexture name="cooldown0010" x="802" y="148" width="262" height="140"/>
+	<SubTexture name="cooldown0011" x="1068" y="148" width="262" height="140"/>
+	<SubTexture name="cooldown0012" x="1334" y="148" width="262" height="140"/>
+	<SubTexture name="cooldown0013" x="1600" y="148" width="262" height="140"/>
+	<SubTexture name="cooldown0014" x="4" y="292" width="262" height="140"/>
+	<SubTexture name="cooldown0015" x="270" y="292" width="262" height="140"/>
+	<SubTexture name="cooldown0016" x="536" y="292" width="262" height="140"/>
+	<SubTexture name="cooldown0017" x="802" y="292" width="262" height="140"/>
+	<SubTexture name="cooldown0018" x="1068" y="292" width="262" height="140"/>
+	<SubTexture name="cooldown0019" x="1334" y="292" width="262" height="140"/>
+	<SubTexture name="cooldown0020" x="1600" y="292" width="262" height="140"/>
+	<SubTexture name="cooldown0021" x="4" y="436" width="262" height="140"/>
+	<SubTexture name="cooldown0022" x="270" y="436" width="262" height="140"/>
+	<SubTexture name="cooldown0023" x="536" y="436" width="262" height="140"/>
+	<SubTexture name="cooldown0024" x="802" y="436" width="262" height="140"/>
+	<SubTexture name="cooldown0025" x="1068" y="436" width="262" height="140"/>
+	<SubTexture name="cooldown0026" x="1334" y="436" width="262" height="140"/>
+	<SubTexture name="cooldown0027" x="1600" y="436" width="262" height="140"/>
+	<SubTexture name="cooldown0028" x="4" y="580" width="262" height="140"/>
+	<SubTexture name="cooldown0029" x="270" y="580" width="262" height="140"/>
+	<SubTexture name="cooldown0030" x="536" y="580" width="262" height="140"/>
+	<SubTexture name="cooldown0031" x="802" y="580" width="262" height="140"/>
+	<SubTexture name="cooldown0032" x="1068" y="580" width="262" height="140"/>
+	<SubTexture name="cooldown0033" x="1334" y="580" width="262" height="140"/>
+	<SubTexture name="cooldown0034" x="1600" y="580" width="262" height="140"/>
+	<SubTexture name="cooldown0035" x="4" y="724" width="262" height="140"/>
+	<SubTexture name="cooldown0036" x="270" y="724" width="262" height="140"/>
+	<SubTexture name="cooldown0037" x="536" y="724" width="262" height="140"/>
+	<SubTexture name="cooldown0038" x="802" y="724" width="262" height="140"/>
+	<SubTexture name="cooldown0039" x="1068" y="724" width="262" height="140"/>
+	<SubTexture name="cooldown0040" x="1334" y="724" width="262" height="140"/>
+	<SubTexture name="cooldown0041" x="1600" y="724" width="262" height="140"/>
+	<SubTexture name="cooldown0042" x="4" y="868" width="262" height="140"/>
+	<SubTexture name="cooldown0043" x="270" y="868" width="262" height="140"/>
+	<SubTexture name="cooldown0044" x="536" y="868" width="262" height="140"/>
+	<SubTexture name="cooldown0045" x="802" y="868" width="262" height="140"/>
+	<SubTexture name="cooldown0046" x="1068" y="868" width="262" height="140"/>
+	<SubTexture name="cooldown0047" x="1334" y="868" width="262" height="140"/>
+	<SubTexture name="cooldown0048" x="1600" y="868" width="262" height="140"/>
+	<SubTexture name="idle0000" x="4" y="1012" width="262" height="140"/>
+</TextureAtlas>

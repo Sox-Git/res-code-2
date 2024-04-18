@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ring.png">
+<SubTexture name="anim0000" x="0" y="0" width="2500" height="1080" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="anim0001" x="0" y="1080" width="2500" height="1080" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="anim0002" x="0" y="2160" width="2500" height="1080" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="anim0003" x="0" y="3240" width="2500" height="1080" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="anim0004" x="0" y="4320" width="2500" height="1080" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="anim0005" x="0" y="5400" width="2500" height="1080" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+</TextureAtlas>

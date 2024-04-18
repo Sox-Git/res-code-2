@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characters-bg.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="0" y="0" width="400" height="250"/>
+	<SubTexture name="dance0001" x="0" y="0" width="400" height="250"/>
+	<SubTexture name="dance0002" x="400" y="0" width="400" height="250"/>
+	<SubTexture name="dance0003" x="400" y="0" width="400" height="250"/>
+	<SubTexture name="dance0004" x="0" y="250" width="400" height="250"/>
+	<SubTexture name="dance0005" x="0" y="250" width="400" height="250"/>
+	<SubTexture name="dance0006" x="400" y="250" width="400" height="250"/>
+	<SubTexture name="dance0007" x="400" y="250" width="400" height="250"/>
+</TextureAtlas>

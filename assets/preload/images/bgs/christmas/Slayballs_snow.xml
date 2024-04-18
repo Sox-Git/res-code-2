@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Slayballs snow.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Snow Slaybells0000" x="3525" y="1985" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Snow Slaybells0001" x="0" y="0" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Snow Slaybells0002" x="3525" y="0" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Snow Slaybells0003" x="7050" y="1985" width="3524" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Snow Slaybells0004" x="0" y="3970" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Snow Slaybells0005" x="0" y="1985" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Snow Slaybells0006" x="3525" y="3970" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Snow Slaybells0007" x="7050" y="0" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+</TextureAtlas>

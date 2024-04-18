@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="loop.png">
+<SubTexture name="loop idle0000" x="0" y="0" width="258" height="308" frameX="-1" frameY="-4" frameWidth="257" frameHeight="310" />
+<SubTexture name="loop idle0001" x="258" y="0" width="258" height="308" frameX="-1" frameY="-4" frameWidth="257" frameHeight="310" />
+<SubTexture name="loop idle0002" x="516" y="0" width="258" height="308" frameX="-1" frameY="-4" frameWidth="257" frameHeight="310" />
+<SubTexture name="loop idle0003" x="0" y="308" width="258" height="308" frameX="-1" frameY="-4" frameWidth="257" frameHeight="310" />
+</TextureAtlas>

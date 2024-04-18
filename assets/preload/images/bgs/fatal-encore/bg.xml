@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bg.png"><SubTexture name="bg dance0000" x="0" y="0" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0001" x="367" y="0" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0002" x="0" y="262" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0003" x="367" y="262" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0004" x="734" y="0" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0005" x="734" y="262" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0006" x="0" y="524" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0007" x="367" y="524" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0008" x="734" y="524" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+<SubTexture name="bg dance0009" x="0" y="786" width="367" height="262" frameX="-4" frameY="-7" frameWidth="378" frameHeight="278" />
+</TextureAtlas>

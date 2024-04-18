@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dollencore.png">
+<SubTexture name="tails doll idle0000" x="1113" y="644" width="427" height="642" frameX="-573" frameY="-375" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll idle0001" x="772" y="0" width="425" height="643" frameX="-574" frameY="-374" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll idle0002" x="1197" y="0" width="418" height="643" frameX="-577" frameY="-372" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll idle0003" x="0" y="644" width="406" height="643" frameX="-583" frameY="-370" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll idle0004" x="0" y="0" width="392" height="644" frameX="-589" frameY="-367" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll idle0005" x="392" y="0" width="380" height="644" frameX="-595" frameY="-365" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll idle0006" x="406" y="644" width="373" height="643" frameX="-598" frameY="-364" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll left0000" x="604" y="1287" width="556" height="564" frameX="-315" frameY="-443" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll left0001" x="1160" y="1287" width="551" height="563" frameX="-338" frameY="-451" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll left0002" x="1930" y="0" width="554" height="545" frameX="-347" frameY="-469" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll left0003" x="1930" y="0" width="554" height="545" frameX="-347" frameY="-469" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll left0004" x="855" y="1923" width="556" height="532" frameX="-356" frameY="-482" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll down0000" x="2484" y="411" width="356" height="409" frameX="-736" frameY="-757" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll down0001" x="1821" y="1923" width="395" height="418" frameX="-724" frameY="-735" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll down0002" x="2484" y="0" width="405" height="411" frameX="-709" frameY="-721" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll down0003" x="0" y="2459" width="417" height="410" frameX="-701" frameY="-713" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll down0004" x="417" y="2459" width="420" height="409" frameX="-699" frameY="-711" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll right0000" x="0" y="1923" width="436" height="536" frameX="-816" frameY="-436" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll right0001" x="1411" y="1923" width="410" height="529" frameX="-813" frameY="-451" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll right0002" x="436" y="1923" width="419" height="536" frameX="-797" frameY="-450" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll right0003" x="1930" y="1089" width="421" height="542" frameX="-789" frameY="-448" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll right0004" x="1930" y="545" width="424" height="544" frameX="-785" frameY="-448" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll up0000" x="779" y="644" width="334" height="643" frameX="-533" frameY="-199" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll up0001" x="1615" y="0" width="315" height="637" frameX="-549" frameY="-241" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll up0002" x="0" y="1287" width="305" height="636" frameX="-558" frameY="-268" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll up0003" x="305" y="1287" width="299" height="636" frameX="-563" frameY="-283" frameWidth="1920" frameHeight="1440" />
+<SubTexture name="tails doll up0004" x="1615" y="637" width="297" height="637" frameX="-564" frameY="-288" frameWidth="1920" frameHeight="1440" />
+</TextureAtlas>

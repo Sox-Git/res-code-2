@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="its-hard-to-breathe.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="breathe...0000" x="4" y="4" width="637" height="41" frameX="0" frameY="0" frameWidth="638" frameHeight="42"/>
+	<SubTexture name="breathe...0001" x="4" y="4" width="637" height="41" frameX="-1" frameY="0" frameWidth="638" frameHeight="42"/>
+	<SubTexture name="breathe...0002" x="4" y="4" width="637" height="41" frameX="-1" frameY="-1" frameWidth="638" frameHeight="42"/>
+</TextureAtlas>

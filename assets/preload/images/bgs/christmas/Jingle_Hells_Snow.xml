@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jingle Hells Snow.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Jingle Snow0000" x="0" y="0" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Jingle Snow0001" x="3525" y="0" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Jingle Snow0002" x="0" y="1985" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Jingle Snow0003" x="3525" y="1985" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Jingle Snow0004" x="0" y="3970" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Jingle Snow0005" x="3525" y="3970" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+	<SubTexture name="Jingle Snow0006" x="7050" y="0" width="3525" height="1985" frameX="2" frameY="2" frameWidth="3521" frameHeight="1981"/>
+</TextureAtlas>

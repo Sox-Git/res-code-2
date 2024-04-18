@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="apollyon.png">
+	<SubTexture name="Down Pose0000" x="73" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0001" x="747" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0002" x="1421" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0003" x="2095" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0004" x="2769" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0005" x="3443" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0006" x="4117" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0007" x="4117" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0008" x="4117" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0009" x="4117" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0010" x="4117" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0011" x="4117" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0012" x="4117" y="73" width="644" height="509"/>
+	<SubTexture name="Down Pose0013" x="4117" y="73" width="644" height="509"/>
+	<SubTexture name="Idle0000" x="4791" y="73" width="411" height="670"/>
+	<SubTexture name="Idle0001" x="5232" y="73" width="411" height="670"/>
+	<SubTexture name="Idle0002" x="5673" y="73" width="411" height="670"/>
+	<SubTexture name="Idle0003" x="6114" y="73" width="411" height="670"/>
+	<SubTexture name="Idle0004" x="6555" y="73" width="411" height="670"/>
+	<SubTexture name="Idle0005" x="6996" y="73" width="411" height="670"/>
+	<SubTexture name="Idle0006" x="7437" y="73" width="411" height="670"/>
+	<SubTexture name="Idle0007" x="73" y="773" width="411" height="670"/>
+	<SubTexture name="Idle0008" x="514" y="773" width="411" height="670"/>
+	<SubTexture name="Idle0009" x="955" y="773" width="411" height="670"/>
+	<SubTexture name="Idle0010" x="1396" y="773" width="411" height="670"/>
+	<SubTexture name="Idle0011" x="1837" y="773" width="411" height="670"/>
+	<SubTexture name="Left Pose0000" x="2278" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0001" x="2920" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0002" x="3562" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0003" x="4204" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0004" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0005" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0006" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0007" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0008" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0009" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0010" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0011" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0012" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Left Pose0013" x="4846" y="773" width="612" height="693"/>
+	<SubTexture name="Right Pose0000" x="5488" y="773" width="848" height="684"/>
+	<SubTexture name="Right Pose0001" x="6366" y="773" width="848" height="684"/>
+	<SubTexture name="Right Pose0002" x="7244" y="773" width="848" height="684"/>
+	<SubTexture name="Right Pose0003" x="73" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0004" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0005" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0006" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0007" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0008" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0009" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0010" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0011" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0012" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Right Pose0013" x="951" y="1496" width="848" height="684"/>
+	<SubTexture name="Up Pose0000" x="1829" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0001" x="2465" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0002" x="3101" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0003" x="3737" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0004" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0005" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0006" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0007" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0008" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0009" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0010" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0011" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0012" x="4373" y="1496" width="606" height="855"/>
+	<SubTexture name="Up Pose0013" x="4373" y="1496" width="606" height="855"/>
+</TextureAtlas>

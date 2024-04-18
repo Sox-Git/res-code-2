@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="griatos.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="griatos0000" x="4" y="4" width="2443" height="2369"/>
+	<SubTexture name="griatos0001" x="2451" y="4" width="2443" height="2369"/>
+	<SubTexture name="griatos0002" x="4898" y="4" width="2443" height="2369"/>
+	<SubTexture name="griatos0003" x="4" y="2377" width="2443" height="2369"/>
+	<SubTexture name="griatos0004" x="2451" y="2377" width="2443" height="2369"/>
+</TextureAtlas>

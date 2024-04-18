@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Melthog_melting.png">
+<SubTexture name="melting0000" x="0" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0001" x="0" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0002" x="30" y="0" width="32" height="39" frameX="0" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0003" x="30" y="0" width="32" height="39" frameX="0" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0004" x="62" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0005" x="62" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0006" x="0" y="39" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0007" x="0" y="39" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0008" x="30" y="39" width="31" height="39" frameX="-1" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0009" x="30" y="39" width="31" height="39" frameX="-1" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0010" x="61" y="39" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0011" x="61" y="39" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0012" x="92" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0013" x="92" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0014" x="92" y="39" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0015" x="92" y="39" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0016" x="0" y="78" width="31" height="39" frameX="-1" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0017" x="0" y="78" width="31" height="39" frameX="-1" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0018" x="31" y="78" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0019" x="31" y="78" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0020" x="61" y="78" width="32" height="39" frameX="0" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0021" x="61" y="78" width="32" height="39" frameX="0" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0022" x="122" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0023" x="122" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0024" x="122" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0025" x="122" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+<SubTexture name="melting0026" x="122" y="0" width="30" height="39" frameX="-2" frameY="0" frameWidth="32" frameHeight="39" />
+</TextureAtlas>

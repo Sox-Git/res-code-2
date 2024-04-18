@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="majin.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="majin dance 0000" x="4" y="4" width="1048" height="1336" frameX="0" frameY="-21" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0001" x="4" y="4" width="1048" height="1336" frameX="0" frameY="-21" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0002" x="1056" y="4" width="1048" height="1340" frameX="-10" frameY="-17" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0003" x="1056" y="4" width="1048" height="1340" frameX="-10" frameY="-17" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0004" x="2108" y="4" width="1046" height="1357" frameX="-12" frameY="0" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0005" x="2108" y="4" width="1046" height="1357" frameX="-12" frameY="0" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0006" x="4" y="1365" width="1050" height="1336" frameX="-33" frameY="-21" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0007" x="1058" y="1365" width="1051" height="1324" frameX="-50" frameY="-33" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0008" x="2113" y="1365" width="1051" height="1318" frameX="-56" frameY="-39" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0009" x="2113" y="1365" width="1051" height="1318" frameX="-56" frameY="-39" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0010" x="2113" y="1365" width="1051" height="1318" frameX="-56" frameY="-39" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0011" x="2113" y="1365" width="1051" height="1318" frameX="-56" frameY="-39" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0012" x="2113" y="1365" width="1051" height="1318" frameX="-56" frameY="-39" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0013" x="4" y="2705" width="1051" height="1311" frameX="-42" frameY="-46" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0014" x="1059" y="2705" width="1050" height="1328" frameX="-21" frameY="-29" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0015" x="2113" y="2705" width="1049" height="1334" frameX="-7" frameY="-23" frameWidth="1107" frameHeight="1357"/>
+	<SubTexture name="majin dance 0016" x="2113" y="2705" width="1049" height="1334" frameX="-7" frameY="-23" frameWidth="1107" frameHeight="1357"/>
+</TextureAtlas>

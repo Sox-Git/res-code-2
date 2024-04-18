@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Wechima.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="KrimaWech0000" x="1518" y="0" width="764" height="1152" frameX="-143" frameY="-195" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="KrimaWech0001" x="0" y="1173" width="750" height="1138" frameX="-143" frameY="-209" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="KrimaWech0002" x="0" y="0" width="756" height="1173" frameX="-143" frameY="-174" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="KrimaWech0003" x="2282" y="0" width="752" height="1165" frameX="-143" frameY="-182" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="KrimaWech0004" x="756" y="0" width="762" height="1158" frameX="-143" frameY="-189" frameWidth="1100" frameHeight="1444"/>
+</TextureAtlas>

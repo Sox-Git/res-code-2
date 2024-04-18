@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Prey pre-Idle.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Intro Idle0000" x="68" y="0" width="34" height="41" frameX="2" frameY="2" frameWidth="30" frameHeight="37"/>
+	<SubTexture name="Intro Idle0001" x="0" y="41" width="33" height="41" frameX="1" frameY="2" frameWidth="30" frameHeight="37"/>
+	<SubTexture name="Intro Idle0002" x="0" y="0" width="34" height="41" frameX="2" frameY="2" frameWidth="30" frameHeight="37"/>
+	<SubTexture name="Intro Idle0003" x="34" y="0" width="34" height="41" frameX="2" frameY="2" frameWidth="30" frameHeight="37"/>
+</TextureAtlas>

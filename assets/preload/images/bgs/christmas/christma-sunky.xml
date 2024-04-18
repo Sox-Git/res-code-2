@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="christma-sunky.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sunky0000" x="4" y="4" width="524" height="620" frameX="0" frameY="-5" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0001" x="4" y="4" width="524" height="620" frameX="0" frameY="-5" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0002" x="532" y="4" width="523" height="623" frameX="-6" frameY="-3" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0003" x="1059" y="4" width="522" height="625" frameX="-11" frameY="-1" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0004" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0005" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0006" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0007" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0008" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0009" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0010" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0011" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0012" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0013" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+	<SubTexture name="Sunky0014" x="1585" y="4" width="522" height="626" frameX="-12" frameY="0" frameWidth="534" frameHeight="626"/>
+</TextureAtlas>

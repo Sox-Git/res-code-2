@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Malediction good future Water.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Water0000" x="0" y="1416" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water0001" x="0" y="0" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water0002" x="0" y="708" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="green-hill.png">
+<SubTexture name="green0000" x="0" y="0" width="2540" height="1120" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="green0001" x="0" y="1120" width="2540" height="1120" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="green0002" x="0" y="2240" width="2540" height="1120" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="green0003" x="0" y="3360" width="2540" height="1120" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="red0000" x="0" y="4480" width="2540" height="1120" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="red0001" x="0" y="5600" width="2540" height="1120" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="red0002" x="0" y="6720" width="2540" height="1120" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+<SubTexture name="red0003" x="0" y="7840" width="2540" height="1120" frameX="0" frameY="0" frameWidth="2500" frameHeight="1080" />
+</TextureAtlas>

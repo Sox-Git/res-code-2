@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LobsterGF.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DanceLeft0000" x="732" y="1111" width="729" height="1114" frameX="-1" frameY="-9" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceLeft0001" x="1462" y="2218" width="729" height="1112" frameX="0" frameY="-11" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceLeft0002" x="733" y="2225" width="729" height="1114" frameX="-1" frameY="-8" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceLeft0003" x="0" y="1122" width="732" height="1120" frameX="-2" frameY="-2" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceLeft0004" x="0" y="0" width="732" height="1122" frameX="-3" frameY="0" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceLeft0005" x="0" y="0" width="732" height="1122" frameX="-3" frameY="0" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceLeft0006" x="0" y="0" width="732" height="1122" frameX="-3" frameY="0" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceRight0000" x="732" y="0" width="732" height="1111" frameX="-2" frameY="-12" frameWidth="738" frameHeight="1123"/>
+	<SubTexture name="DanceRight0001" x="1464" y="0" width="733" height="1104" frameX="0" frameY="-19" frameWidth="738" frameHeight="1123"/>
+	<SubTexture name="DanceRight0002" x="1461" y="1111" width="733" height="1107" frameX="-1" frameY="-15" frameWidth="738" frameHeight="1123"/>
+	<SubTexture name="DanceRight0003" x="0" y="2242" width="733" height="1118" frameX="-4" frameY="-4" frameWidth="738" frameHeight="1123"/>
+	<SubTexture name="DanceRight0004" x="0" y="0" width="732" height="1122" frameX="-6" frameY="0" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceRight0005" x="0" y="0" width="732" height="1122" frameX="-6" frameY="0" frameWidth="735" frameHeight="1123"/>
+	<SubTexture name="DanceRight0006" x="0" y="0" width="732" height="1122" frameX="-6" frameY="0" frameWidth="735" frameHeight="1123"/>
+</TextureAtlas>

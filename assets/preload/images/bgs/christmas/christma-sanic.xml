@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="christma-sanic.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sanic0000" x="4" y="4" width="313" height="196" frameX="0" frameY="-5" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0001" x="4" y="4" width="313" height="196" frameX="0" frameY="-5" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0002" x="321" y="4" width="305" height="197" frameX="-4" frameY="-4" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0003" x="630" y="4" width="302" height="199" frameX="-6" frameY="-2" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0004" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0005" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0006" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0007" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0008" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0009" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0010" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0011" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0012" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0013" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+	<SubTexture name="Sanic0014" x="936" y="4" width="298" height="200" frameX="-7" frameY="0" frameWidth="313" frameHeight="201"/>
+</TextureAtlas>

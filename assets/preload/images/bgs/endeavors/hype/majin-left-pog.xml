@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="majin-left-pog.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="meme majin0000" x="4" y="4" width="1845" height="1567" frameX="-6" frameY="-5" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0001" x="4" y="4" width="1845" height="1567" frameX="-6" frameY="-5" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0002" x="1853" y="4" width="1851" height="1561" frameX="-17" frameY="-7" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0003" x="1853" y="4" width="1851" height="1561" frameX="-17" frameY="-7" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0004" x="3708" y="4" width="1852" height="1546" frameX="-35" frameY="-16" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0005" x="5564" y="4" width="1850" height="1545" frameX="-44" frameY="-13" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0006" x="4" y="1575" width="1845" height="1545" frameX="-57" frameY="-13" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0007" x="1853" y="1575" width="1835" height="1545" frameX="-67" frameY="-13" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0008" x="1853" y="1575" width="1835" height="1545" frameX="-67" frameY="-13" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0009" x="1853" y="1575" width="1835" height="1545" frameX="-67" frameY="-13" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0010" x="1853" y="1575" width="1835" height="1545" frameX="-67" frameY="-13" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0011" x="3692" y="1575" width="1848" height="1545" frameX="-38" frameY="-13" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0012" x="3692" y="1575" width="1848" height="1545" frameX="-38" frameY="-13" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0013" x="5544" y="1575" width="1858" height="1553" frameX="-15" frameY="-5" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0014" x="5544" y="1575" width="1858" height="1553" frameX="-15" frameY="-5" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0015" x="4" y="3132" width="1867" height="1562" frameX="0" frameY="0" frameWidth="1902" frameHeight="1572"/>
+	<SubTexture name="meme majin0016" x="4" y="3132" width="1867" height="1562" frameX="0" frameY="0" frameWidth="1902" frameHeight="1572"/>
+</TextureAtlas>

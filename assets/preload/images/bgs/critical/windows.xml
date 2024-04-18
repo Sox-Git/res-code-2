@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="windows.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="windows0000" x="4" y="4" width="758" height="379" frameX="0" frameY="0" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0001" x="4" y="4" width="758" height="379" frameX="0" frameY="0" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0002" x="766" y="4" width="758" height="379" frameX="0" frameY="0" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0003" x="766" y="4" width="758" height="379" frameX="0" frameY="0" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0004" x="4" y="387" width="759" height="379" frameX="0" frameY="-2" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0005" x="4" y="387" width="759" height="379" frameX="0" frameY="-2" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0006" x="767" y="387" width="758" height="379" frameX="-2" frameY="-4" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0007" x="767" y="387" width="758" height="379" frameX="-2" frameY="-4" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0008" x="4" y="770" width="758" height="378" frameX="-3" frameY="-6" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0009" x="4" y="770" width="758" height="378" frameX="-3" frameY="-6" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0010" x="766" y="770" width="758" height="378" frameX="-3" frameY="-6" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0011" x="766" y="770" width="758" height="378" frameX="-3" frameY="-6" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0012" x="4" y="770" width="758" height="378" frameX="-3" frameY="-6" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0013" x="4" y="770" width="758" height="378" frameX="-3" frameY="-6" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0014" x="767" y="387" width="758" height="379" frameX="-2" frameY="-4" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0015" x="767" y="387" width="758" height="379" frameX="-2" frameY="-4" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0016" x="4" y="1152" width="759" height="379" frameX="0" frameY="-2" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0017" x="4" y="1152" width="759" height="379" frameX="0" frameY="-2" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0018" x="766" y="4" width="758" height="379" frameX="0" frameY="0" frameWidth="761" frameHeight="384"/>
+	<SubTexture name="windows0019" x="766" y="4" width="758" height="379" frameX="0" frameY="0" frameWidth="761" frameHeight="384"/>
+</TextureAtlas>

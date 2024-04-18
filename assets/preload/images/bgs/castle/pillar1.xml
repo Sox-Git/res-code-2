@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pillar1.png">
+<SubTexture name="pillar1 idle0000" x="0" y="0" width="1701" height="1395" frameX="-372" frameY="-18" frameWidth="2445" frameHeight="1413" />
+<SubTexture name="pillar1 idle0001" x="1701" y="0" width="1701" height="1370" frameX="-372" frameY="-43" frameWidth="2445" frameHeight="1413" />
+<SubTexture name="pillar1 idle0002" x="0" y="2754" width="1701" height="1328" frameX="-372" frameY="-85" frameWidth="2445" frameHeight="1413" />
+<SubTexture name="pillar1 idle0003" x="3402" y="1345" width="1701" height="1343" frameX="-372" frameY="-70" frameWidth="2445" frameHeight="1413" />
+<SubTexture name="pillar1 idle0004" x="1701" y="2754" width="1701" height="1322" frameX="-372" frameY="-91" frameWidth="2445" frameHeight="1413" />
+<SubTexture name="pillar1 idle0005" x="1701" y="1395" width="1701" height="1353" frameX="-372" frameY="-60" frameWidth="2445" frameHeight="1413" />
+<SubTexture name="pillar1 idle0006" x="0" y="1395" width="1701" height="1359" frameX="-372" frameY="-54" frameWidth="2445" frameHeight="1413" />
+<SubTexture name="pillar1 idle0007" x="3402" y="0" width="1701" height="1345" frameX="-372" frameY="-68" frameWidth="2445" frameHeight="1413" />
+</TextureAtlas>

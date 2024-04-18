@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fatal-error-p2.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fatal idle0000" x="0" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0001" x="0" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0002" x="400" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0003" x="400" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0004" x="800" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0005" x="800" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0006" x="1200" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0007" x="1200" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0008" x="1200" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0009" x="1200" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0010" x="1200" y="0" width="400" height="250"/>
+	<SubTexture name="fatal idle0011" x="1200" y="0" width="400" height="250"/>
+	<SubTexture name="fatal sing down0000" x="0" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0001" x="0" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0002" x="400" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0003" x="400" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0004" x="800" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0005" x="800" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0006" x="800" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0007" x="800" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0008" x="800" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing down0009" x="800" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing left0000" x="1200" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing left0001" x="1200" y="250" width="400" height="250"/>
+	<SubTexture name="fatal sing left0002" x="0" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing left0003" x="0" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing left0004" x="400" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing left0005" x="400" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing left0006" x="400" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing left0007" x="400" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing left0008" x="400" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing left0009" x="400" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing right0000" x="800" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing right0001" x="800" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing right0002" x="1200" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing right0003" x="1200" y="500" width="400" height="250"/>
+	<SubTexture name="fatal sing right0004" x="0" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing right0005" x="0" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing right0006" x="0" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing right0007" x="0" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing right0008" x="0" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing right0009" x="0" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0000" x="400" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0001" x="400" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0002" x="800" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0003" x="800" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0004" x="1200" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0005" x="1200" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0006" x="1200" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0007" x="1200" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0008" x="1200" y="750" width="400" height="250"/>
+	<SubTexture name="fatal sing up0009" x="1200" y="750" width="400" height="250"/>
+</TextureAtlas>

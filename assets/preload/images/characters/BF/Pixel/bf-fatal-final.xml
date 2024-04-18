@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-fatal-final.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-down0000" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0001" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0002" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0003" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0004" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0005" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0006" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0007" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0008" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0009" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0010" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="bf-down0011" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="bf-idle0000" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="bf-idle0001" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="bf-idle0002" x="0" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0003" x="0" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0004" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0005" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0006" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0007" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0008" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0009" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0010" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="bf-idle0011" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="bf-left0000" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="bf-left0001" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="bf-left0002" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="bf-left0003" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="bf-left0004" x="0" y="400" width="200" height="200"/>
+	<SubTexture name="bf-left0005" x="0" y="400" width="200" height="200"/>
+	<SubTexture name="bf-left0006" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="bf-left0007" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="bf-left0008" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="bf-left0009" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="bf-left0010" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="bf-left0011" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="bf-right0000" x="400" y="400" width="200" height="200"/>
+	<SubTexture name="bf-right0001" x="400" y="400" width="200" height="200"/>
+	<SubTexture name="bf-right0002" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="bf-right0003" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="bf-right0004" x="800" y="400" width="200" height="200"/>
+	<SubTexture name="bf-right0005" x="800" y="400" width="200" height="200"/>
+	<SubTexture name="bf-right0006" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="bf-right0007" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="bf-right0008" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="bf-right0009" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="bf-right0010" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="bf-right0011" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="bf-right0012" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="bf-right0013" x="0" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0000" x="200" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0001" x="200" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0002" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0003" x="400" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0004" x="600" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0005" x="600" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0006" x="800" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0007" x="800" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0008" x="800" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0009" x="800" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0010" x="800" y="600" width="200" height="200"/>
+	<SubTexture name="bf-up0011" x="800" y="600" width="200" height="200"/>
+</TextureAtlas>

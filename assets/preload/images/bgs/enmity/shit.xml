@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shit.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fff0000" x="4" y="4" width="355" height="2683" frameX="-129" frameY="-138" frameWidth="535" frameHeight="2888"/>
+	<SubTexture name="fff0001" x="363" y="4" width="386" height="2885" frameX="-113" frameY="0" frameWidth="535" frameHeight="2888"/>
+	<SubTexture name="fff0002" x="753" y="4" width="535" height="2878" frameX="0" frameY="-10" frameWidth="535" frameHeight="2888"/>
+	<SubTexture name="fff0003" x="1292" y="4" width="441" height="2724" frameX="-85" frameY="-129" frameWidth="535" frameHeight="2888"/>
+	<SubTexture name="fff0004" x="363" y="4" width="386" height="2885" frameX="-113" frameY="0" frameWidth="535" frameHeight="2888"/>
+	<SubTexture name="fff0005" x="753" y="4" width="535" height="2878" frameX="0" frameY="-10" frameWidth="535" frameHeight="2888"/>
+</TextureAtlas>

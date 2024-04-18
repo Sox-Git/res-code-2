@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="christma-devoid.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Devoid0000" x="4" y="4" width="475" height="619" frameX="-12" frameY="0" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0001" x="4" y="4" width="475" height="619" frameX="-12" frameY="0" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0002" x="483" y="4" width="477" height="617" frameX="-10" frameY="0" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0003" x="964" y="4" width="479" height="615" frameX="-4" frameY="-1" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0004" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0005" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0006" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0007" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0008" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0009" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0010" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0011" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0012" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0013" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+	<SubTexture name="Devoid0014" x="1447" y="4" width="480" height="612" frameX="0" frameY="-3" frameWidth="487" frameHeight="619"/>
+</TextureAtlas>

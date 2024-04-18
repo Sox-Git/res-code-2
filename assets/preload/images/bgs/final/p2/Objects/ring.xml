@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ring.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ring0000" x="4" y="4" width="30" height="84" frameX="-27" frameY="0" frameWidth="82" frameHeight="84"/>
+	<SubTexture name="ring0001" x="4" y="4" width="30" height="84" frameX="-27" frameY="0" frameWidth="82" frameHeight="84"/>
+	<SubTexture name="ring0002" x="38" y="4" width="72" height="83" frameX="-7" frameY="-1" frameWidth="82" frameHeight="84"/>
+	<SubTexture name="ring0003" x="38" y="4" width="72" height="83" frameX="-7" frameY="-1" frameWidth="82" frameHeight="84"/>
+	<SubTexture name="ring0004" x="114" y="4" width="82" height="83" frameX="0" frameY="-1" frameWidth="82" frameHeight="84"/>
+	<SubTexture name="ring0005" x="114" y="4" width="82" height="83" frameX="0" frameY="-1" frameWidth="82" frameHeight="84"/>
+	<SubTexture name="ring0006" x="200" y="4" width="72" height="82" frameX="-4" frameY="-1" frameWidth="82" frameHeight="84"/>
+	<SubTexture name="ring0007" x="200" y="4" width="72" height="82" frameX="-4" frameY="-1" frameWidth="82" frameHeight="84"/>
+</TextureAtlas>

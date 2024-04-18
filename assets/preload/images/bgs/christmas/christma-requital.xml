@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="christma-requital.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Requital0000" x="4" y="4" width="321" height="209" frameX="0" frameY="-5" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0001" x="4" y="4" width="321" height="209" frameX="0" frameY="-5" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0002" x="329" y="4" width="315" height="211" frameX="-3" frameY="-3" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0003" x="648" y="4" width="309" height="213" frameX="-6" frameY="-1" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0004" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0005" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0006" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0007" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0008" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0009" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0010" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0011" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0012" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0013" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+	<SubTexture name="Requital0014" x="961" y="4" width="304" height="213" frameX="-8" frameY="0" frameWidth="321" frameHeight="214"/>
+</TextureAtlas>

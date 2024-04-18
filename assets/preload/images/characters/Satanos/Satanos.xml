@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Satanos.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down instancia 10000" x="0" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10001" x="0" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10002" x="677" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10003" x="1354" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10004" x="2031" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10005" x="2031" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10006" x="2708" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10007" x="2708" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10008" x="3385" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10009" x="3385" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10010" x="3385" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10011" x="3385" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10012" x="4062" y="0" width="677" height="545" frameX="0" frameY="0" frameWidth="1372" frameHeight="592"/>
+	<SubTexture name="down instancia 10013" x="4739" y="0" width="1372" height="592"/>
+	<SubTexture name="idle instancia 10000" x="6111" y="0" width="1398" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10001" x="0" y="620" width="1402" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10002" x="1402" y="620" width="1398" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10003" x="2800" y="620" width="1401" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10004" x="4201" y="620" width="1403" height="620"/>
+	<SubTexture name="idle instancia 10005" x="4201" y="620" width="1403" height="620"/>
+	<SubTexture name="idle instancia 10006" x="5604" y="620" width="1400" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10007" x="5604" y="620" width="1400" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10008" x="0" y="1240" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10009" x="0" y="1240" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10010" x="0" y="1240" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10011" x="1399" y="1240" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10012" x="1399" y="1240" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10013" x="1399" y="1240" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10014" x="2798" y="1240" width="1401" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10015" x="2798" y="1240" width="1401" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10016" x="4199" y="1240" width="1398" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10017" x="5597" y="1240" width="1402" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10018" x="0" y="1860" width="1398" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10019" x="1398" y="1860" width="1401" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10020" x="2799" y="1860" width="1403" height="620"/>
+	<SubTexture name="idle instancia 10021" x="4202" y="1860" width="1403" height="620"/>
+	<SubTexture name="idle instancia 10022" x="5605" y="1860" width="1400" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10023" x="0" y="2480" width="1400" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10024" x="1400" y="2480" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10025" x="1400" y="2480" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10026" x="2799" y="2480" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10027" x="4198" y="2480" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10028" x="1399" y="1240" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10029" x="1399" y="1240" width="1399" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10030" x="5597" y="2480" width="1401" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="idle instancia 10031" x="5597" y="2480" width="1401" height="620" frameX="0" frameY="0" frameWidth="1403" frameHeight="620"/>
+	<SubTexture name="left instancia 10000" x="0" y="3100" width="1347" height="752" frameX="0" frameY="-2" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10001" x="0" y="3100" width="1347" height="752" frameX="0" frameY="-2" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10002" x="1347" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10003" x="2694" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10004" x="4041" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10005" x="4041" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10006" x="5388" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10007" x="5388" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10008" x="6735" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10009" x="6735" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10010" x="6735" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10011" x="6735" y="3100" width="1347" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10012" x="0" y="3854" width="1346" height="754" frameX="0" frameY="0" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="left instancia 10013" x="1346" y="3854" width="1404" height="601" frameX="0" frameY="-153" frameWidth="1404" frameHeight="754"/>
+	<SubTexture name="right instancia 10000" x="2750" y="3854" width="695" height="787" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10001" x="2750" y="3854" width="695" height="787" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10002" x="3445" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10003" x="4140" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10004" x="4835" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10005" x="4835" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10006" x="5530" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10007" x="5530" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10008" x="6225" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10009" x="6225" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10010" x="6225" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10011" x="6225" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10012" x="6920" y="3854" width="695" height="788" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="right instancia 10013" x="0" y="4642" width="686" height="819" frameX="0" frameY="0" frameWidth="695" frameHeight="819"/>
+	<SubTexture name="up instancia 10000" x="686" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10001" x="686" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10002" x="1279" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10003" x="1872" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10004" x="2465" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10005" x="3058" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10006" x="3651" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10007" x="3651" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10008" x="4244" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10009" x="4244" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10010" x="4244" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10011" x="4244" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10012" x="4837" y="4642" width="593" height="793" frameX="-364" frameY="-155" frameWidth="957" frameHeight="948"/>
+	<SubTexture name="up instancia 10013" x="5430" y="4642" width="957" height="948"/>
+</TextureAtlas>

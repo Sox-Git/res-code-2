@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HogGF.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Left0000" x="1758" y="1202" width="585" height="1215" frameX="-5" frameY="-16" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Left0001" x="0" y="0" width="595" height="1212" frameX="0" frameY="-19" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Left0002" x="0" y="1212" width="589" height="1216" frameX="-3" frameY="-15" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Left0003" x="1177" y="1202" width="581" height="1227" frameX="-8" frameY="-4" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Left0004" x="595" y="0" width="582" height="1231" frameX="-7" frameY="0" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Left0005" x="595" y="0" width="582" height="1231" frameX="-7" frameY="0" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Left0006" x="595" y="0" width="582" height="1231" frameX="-7" frameY="0" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Right0000" x="1758" y="2417" width="585" height="1207" frameX="-5" frameY="-24" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Right0001" x="1177" y="0" width="595" height="1202" frameX="0" frameY="-29" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Right0002" x="0" y="2428" width="589" height="1209" frameX="-3" frameY="-22" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Right0003" x="589" y="1231" width="581" height="1225" frameX="-8" frameY="-6" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Right0004" x="595" y="0" width="582" height="1231" frameX="-7" frameY="0" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Right0005" x="595" y="0" width="582" height="1231" frameX="-7" frameY="0" frameWidth="595" frameHeight="1231"/>
+	<SubTexture name="Right0006" x="595" y="0" width="582" height="1231" frameX="-7" frameY="0" frameWidth="595" frameHeight="1231"/>
+</TextureAtlas>

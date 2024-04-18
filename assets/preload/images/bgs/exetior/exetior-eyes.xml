@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exetior-eyes.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exetior-eyes0000" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0001" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0002" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0003" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0004" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0005" x="542" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0006" x="1080" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0007" x="1618" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0008" x="2156" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0009" x="4" y="237" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0010" x="542" y="237" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0011" x="1080" y="237" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0012" x="1618" y="237" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0013" x="2156" y="237" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0014" x="4" y="470" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0015" x="542" y="470" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0016" x="1080" y="470" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0017" x="1618" y="470" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0018" x="2156" y="470" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0019" x="4" y="703" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0020" x="542" y="703" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0021" x="1080" y="703" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0022" x="1618" y="703" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0023" x="2156" y="703" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0024" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0025" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0026" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0027" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0028" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0029" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0030" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0031" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0032" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0033" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0034" x="4" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0035" x="542" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0036" x="1080" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0037" x="1618" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0038" x="2156" y="936" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0039" x="4" y="1169" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0040" x="542" y="1169" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0041" x="1080" y="1169" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0042" x="1618" y="1169" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0043" x="2156" y="1169" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0044" x="4" y="1402" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0045" x="542" y="1402" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0046" x="1080" y="1402" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0047" x="1618" y="1402" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0048" x="2156" y="1402" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0049" x="4" y="1635" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0050" x="542" y="1635" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0051" x="1080" y="1635" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0052" x="1618" y="1635" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0053" x="2156" y="1635" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0054" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0055" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0056" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0057" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0058" x="4" y="4" width="534" height="229"/>
+	<SubTexture name="exetior-eyes0059" x="4" y="4" width="534" height="229"/>
+</TextureAtlas>

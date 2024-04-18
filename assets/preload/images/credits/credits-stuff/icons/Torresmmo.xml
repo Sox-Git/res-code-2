@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Torresmmo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Torresmmo0000" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0001" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0002" x="94" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0003" x="94" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0004" x="4" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0005" x="4" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0006" x="94" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0007" x="94" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0008" x="94" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0009" x="94" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0010" x="94" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0011" x="94" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0012" x="94" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0013" x="94" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0014" x="4" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0015" x="4" y="94" width="86" height="86"/>
+	<SubTexture name="Torresmmo0016" x="94" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0017" x="94" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0018" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0019" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0020" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0021" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0022" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0023" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0024" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0025" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0026" x="4" y="4" width="86" height="86"/>
+	<SubTexture name="Torresmmo0027" x="4" y="4" width="86" height="86"/>
+</TextureAtlas>

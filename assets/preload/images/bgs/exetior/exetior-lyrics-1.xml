@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exetior-lyrics-1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exetior-lyrics-10000" x="4" y="4" width="0" height="0" frameX="-426" frameY="73" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10001" x="8" y="4" width="118" height="81" frameX="0" frameY="-34" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10002" x="130" y="4" width="319" height="81" frameX="0" frameY="-34" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10003" x="453" y="4" width="486" height="153" frameX="0" frameY="0" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10004" x="943" y="4" width="475" height="131" frameX="0" frameY="-11" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10005" x="1422" y="4" width="463" height="107" frameX="0" frameY="-23" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10006" x="4" y="161" width="449" height="81" frameX="0" frameY="-34" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10007" x="457" y="161" width="661" height="153" frameX="0" frameY="0" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10008" x="1122" y="161" width="650" height="131" frameX="0" frameY="-11" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10009" x="4" y="318" width="638" height="107" frameX="0" frameY="-23" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10010" x="646" y="318" width="623" height="81" frameX="0" frameY="-34" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10011" x="4" y="429" width="786" height="153" frameX="0" frameY="0" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10012" x="794" y="429" width="775" height="131" frameX="0" frameY="-11" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10013" x="4" y="586" width="763" height="107" frameX="0" frameY="-23" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10014" x="771" y="586" width="748" height="81" frameX="0" frameY="-34" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10015" x="4" y="697" width="958" height="153"/>
+	<SubTexture name="exetior-lyrics-10016" x="966" y="697" width="947" height="131" frameX="0" frameY="-11" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10017" x="4" y="854" width="935" height="107" frameX="0" frameY="-23" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10018" x="943" y="854" width="921" height="81" frameX="0" frameY="-34" frameWidth="958" frameHeight="153"/>
+	<SubTexture name="exetior-lyrics-10019" x="943" y="854" width="921" height="81" frameX="0" frameY="-34" frameWidth="958" frameHeight="153"/>
+</TextureAtlas>

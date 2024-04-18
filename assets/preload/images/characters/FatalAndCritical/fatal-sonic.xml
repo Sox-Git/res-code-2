@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fatal-sonic.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FATAL DOWN0000" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0001" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0002" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0003" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0004" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0005" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0006" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0007" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0008" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL DOWN0009" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0000" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0001" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0002" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0003" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0004" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0005" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0006" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0007" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0008" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0009" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0010" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL IDLE0011" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0000" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0001" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0002" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0003" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0004" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0005" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0006" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0007" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0008" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL LEFT0009" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0000" x="200" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0001" x="200" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0002" x="300" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0003" x="300" y="200" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0004" x="0" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0005" x="0" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0006" x="0" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0007" x="0" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0008" x="0" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL RIGHT0009" x="0" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0000" x="100" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0001" x="100" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0002" x="200" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0003" x="200" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0004" x="300" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0005" x="300" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0006" x="300" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0007" x="300" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0008" x="300" y="300" width="100" height="100"/>
+	<SubTexture name="FATAL UP0009" x="300" y="300" width="100" height="100"/>
+</TextureAtlas>

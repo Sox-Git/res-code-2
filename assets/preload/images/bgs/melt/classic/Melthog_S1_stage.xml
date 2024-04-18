@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Melthog S1 stage.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="S1 Stage0000" x="731" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0001" x="731" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0002" x="731" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0003" x="731" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0004" x="731" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0005" x="731" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0006" x="0" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0007" x="0" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0008" x="0" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0009" x="0" y="531" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0010" x="0" y="531" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0011" x="0" y="531" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0012" x="0" y="531" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0013" x="0" y="531" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0014" x="0" y="531" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0015" x="0" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0016" x="0" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+	<SubTexture name="S1 Stage0017" x="0" y="0" width="731" height="531" frameX="2" frameY="2" frameWidth="727" frameHeight="527"/>
+</TextureAtlas>

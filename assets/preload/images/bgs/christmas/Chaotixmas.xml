@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chaotixmas.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Chaotimas0000" x="0" y="0" width="981" height="1345" frameX="-66" frameY="-86" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="Chaotimas0001" x="981" y="0" width="981" height="1339" frameX="-66" frameY="-92" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="Chaotimas0002" x="0" y="1345" width="970" height="1351" frameX="-77" frameY="-80" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="Chaotimas0003" x="1962" y="0" width="954" height="1336" frameX="-93" frameY="-95" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="Chaotimas0004" x="970" y="1345" width="970" height="1344" frameX="-77" frameY="-87" frameWidth="1100" frameHeight="1444"/>
+	<SubTexture name="Chaotimas0005" x="0" y="1345" width="970" height="1351" frameX="-77" frameY="-80" frameWidth="1100" frameHeight="1444"/>
+</TextureAtlas>

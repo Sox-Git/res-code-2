@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DeathScreenSonicExe.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="appear0000" x="0" y="0" width="620" height="620"/>
+	<SubTexture name="appear0001" x="620" y="0" width="620" height="620"/>
+	<SubTexture name="appear0002" x="1240" y="0" width="620" height="620"/>
+	<SubTexture name="appear0003" x="1860" y="0" width="620" height="620"/>
+	<SubTexture name="appear0004" x="2480" y="0" width="620" height="620"/>
+	<SubTexture name="appear0005" x="3100" y="0" width="620" height="620"/>
+	<SubTexture name="appear0006" x="3720" y="0" width="620" height="620"/>
+	<SubTexture name="appear0007" x="4340" y="0" width="620" height="620"/>
+	<SubTexture name="appear0008" x="4960" y="0" width="620" height="620"/>
+	<SubTexture name="appear0009" x="5580" y="0" width="620" height="620"/>
+	<SubTexture name="appear0010" x="6200" y="0" width="620" height="620"/>
+	<SubTexture name="appear0011" x="6820" y="0" width="620" height="620"/>
+	<SubTexture name="appear0012" x="7440" y="0" width="620" height="620"/>
+	<SubTexture name="appear0013" x="0" y="620" width="620" height="620"/>
+	<SubTexture name="appear0014" x="620" y="620" width="620" height="620"/>
+	<SubTexture name="appear0015" x="1240" y="620" width="620" height="620"/>
+	<SubTexture name="appear0016" x="1860" y="620" width="620" height="620"/>
+	<SubTexture name="appear0017" x="2480" y="620" width="620" height="620"/>
+	<SubTexture name="appear0018" x="3100" y="620" width="620" height="620"/>
+	<SubTexture name="appear0019" x="3720" y="620" width="620" height="620"/>
+	<SubTexture name="appear0020" x="4340" y="620" width="620" height="620"/>
+	<SubTexture name="appear0021" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0022" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0023" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0024" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0025" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0026" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0027" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0028" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0029" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0030" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0031" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0032" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0033" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0034" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0035" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0036" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0037" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0038" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0039" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0040" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0041" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0042" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0043" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0044" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0045" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0046" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0047" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0048" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0049" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0050" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0051" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0052" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0053" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0054" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0055" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0056" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0057" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0058" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="appear0059" x="4960" y="620" width="620" height="620"/>
+	<SubTexture name="deathConfirmSonicExe instance 10000" x="5580" y="620" width="572" height="487"/>
+	<SubTexture name="deathConfirmSonicExe instance 10001" x="6152" y="620" width="572" height="487"/>
+	<SubTexture name="deathConfirmSonicExe instance 10002" x="6724" y="620" width="572" height="487"/>
+	<SubTexture name="deathLoopSonicExe instance 10000" x="7296" y="620" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10001" x="0" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10002" x="0" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10003" x="0" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10004" x="621" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10005" x="621" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10006" x="1242" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10007" x="1863" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10008" x="2484" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10009" x="3105" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10010" x="3726" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10011" x="4347" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10012" x="4968" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10013" x="5589" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10014" x="6210" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10015" x="6831" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10016" x="7452" y="1240" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10017" x="0" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10018" x="621" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10019" x="1242" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10020" x="1863" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10021" x="2484" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10022" x="3105" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10023" x="3726" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10024" x="4347" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10025" x="4968" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10026" x="5589" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10027" x="6210" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10028" x="6831" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10029" x="7452" y="1768" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10030" x="0" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10031" x="621" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10032" x="1242" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10033" x="1863" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10034" x="2484" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10035" x="3105" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10036" x="3726" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10037" x="3726" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10038" x="3726" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10039" x="4347" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10040" x="4347" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10041" x="4347" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10042" x="4347" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10043" x="4347" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10044" x="4968" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10045" x="5589" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10046" x="6210" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10047" x="6831" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10048" x="7452" y="2296" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10049" x="0" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10050" x="621" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10051" x="1242" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10052" x="1863" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10053" x="2484" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10054" x="3105" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10055" x="3726" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10056" x="4347" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10057" x="4968" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10058" x="5589" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10059" x="6210" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10060" x="6831" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10061" x="7452" y="2824" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10062" x="0" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10063" x="621" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10064" x="1242" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10065" x="1863" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10066" x="2484" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10067" x="2484" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10068" x="3105" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10069" x="3726" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10070" x="3726" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10071" x="4347" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10072" x="4968" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10073" x="5589" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10074" x="5589" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10075" x="6210" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10076" x="6210" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10077" x="6210" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10078" x="6831" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10079" x="6831" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10080" x="7452" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10081" x="7452" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10082" x="7452" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10083" x="7452" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10084" x="7452" y="3352" width="621" height="528"/>
+	<SubTexture name="deathLoopSonicExe instance 10085" x="7452" y="3352" width="621" height="528"/>
+</TextureAtlas>

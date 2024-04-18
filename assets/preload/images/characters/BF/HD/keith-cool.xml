@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="keith-cool.png">
+<SubTexture name="down0000" x="0" y="0" width="415" height="364" frameX="-10" frameY="-78" frameWidth="409" frameHeight="413" />
+<SubTexture name="down0001" x="415" y="0" width="427" height="338" frameX="-5" frameY="-104" frameWidth="409" frameHeight="413" />
+<SubTexture name="down0002" x="842" y="0" width="438" height="317" frameX="0" frameY="-125" frameWidth="409" frameHeight="413" />
+<SubTexture name="idle0000" x="0" y="364" width="396" height="426" frameX="-4" frameY="-13" frameWidth="409" frameHeight="413" />
+<SubTexture name="idle0001" x="396" y="364" width="396" height="424" frameX="-4" frameY="-15" frameWidth="409" frameHeight="413" />
+<SubTexture name="left0000" x="792" y="364" width="412" height="429" frameX="-29" frameY="-8" frameWidth="409" frameHeight="413" />
+<SubTexture name="left0001" x="0" y="793" width="416" height="422" frameX="-18" frameY="-15" frameWidth="409" frameHeight="413" />
+<SubTexture name="right0000" x="416" y="793" width="380" height="443" frameX="-8" frameY="-8" frameWidth="409" frameHeight="413" />
+<SubTexture name="right0001" x="796" y="793" width="388" height="435" frameX="-10" frameY="-15" frameWidth="409" frameHeight="413" />
+<SubTexture name="up0000" x="0" y="1236" width="432" height="408" frameX="-11" frameY="-41" frameWidth="409" frameHeight="413" />
+<SubTexture name="up0001" x="432" y="1236" width="414" height="436" frameX="-22" frameY="-11" frameWidth="409" frameHeight="413" />
+<SubTexture name="miss down0000" x="846" y="1236" width="433" height="417" frameX="-3" frameY="-27" frameWidth="409" frameHeight="413" />
+<SubTexture name="miss left0000" x="846" y="1236" width="433" height="417" frameX="-3" frameY="-27" frameWidth="409" frameHeight="413" />
+<SubTexture name="miss right0000" x="846" y="1236" width="433" height="417" frameX="-3" frameY="-27" frameWidth="409" frameHeight="413" />
+<SubTexture name="miss up0000" x="846" y="1236" width="433" height="417" frameX="-3" frameY="-27" frameWidth="409" frameHeight="413" />
+</TextureAtlas>

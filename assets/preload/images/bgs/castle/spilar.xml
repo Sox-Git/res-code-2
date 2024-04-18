@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spilar.png">
+<SubTexture name="spilar idle0000" x="0" y="0" width="2515" height="1686" frameX="0" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0001" x="2515" y="0" width="1811" height="1686" frameX="-294" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0002" x="0" y="1686" width="1229" height="1686" frameX="-611" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0003" x="1229" y="1686" width="1247" height="1686" frameX="-614" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0004" x="0" y="5058" width="2515" height="1656" frameX="0" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0005" x="2476" y="1686" width="734" height="1686" frameX="-907" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0006" x="4326" y="0" width="2515" height="1686" frameX="0" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0007" x="5991" y="1686" width="831" height="1233" frameX="-827" frameY="-200" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0008" x="4326" y="1686" width="811" height="1686" frameX="-844" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0009" x="3210" y="1686" width="828" height="761" frameX="-827" frameY="-460" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0010" x="0" y="3372" width="2515" height="1686" frameX="0" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0011" x="5030" y="3372" width="1499" height="1143" frameX="-657" frameY="-336" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0012" x="5137" y="1686" width="604" height="1686" frameX="-923" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0013" x="2515" y="5058" width="503" height="609" frameX="-988" frameY="-526" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0014" x="2515" y="3372" width="2515" height="1686" frameX="0" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0015" x="3210" y="2447" width="835" height="676" frameX="-805" frameY="-512" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0016" x="3018" y="5058" width="2515" height="405" frameX="0" frameY="-635" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0017" x="5991" y="2919" width="541" height="214" frameX="-1004" frameY="-701" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0018" x="5741" y="1686" width="250" height="1686" frameX="-1116" frameY="0" frameWidth="2515" frameHeight="1686" />
+<SubTexture name="spilar idle0019" x="5030" y="4515" width="332" height="513" frameX="-1078" frameY="-587" frameWidth="2515" frameHeight="1686" />
+</TextureAtlas>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonichu NEW.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonichu anim instancia 10000" x="0" y="0" width="702" height="849" frameX="-42" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10001" x="0" y="0" width="702" height="849" frameX="-42" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10002" x="702" y="0" width="688" height="849" frameX="-56" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10003" x="702" y="0" width="688" height="849" frameX="-56" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10004" x="1390" y="0" width="692" height="849" frameX="-52" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10005" x="1390" y="0" width="692" height="849" frameX="-52" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10006" x="2082" y="0" width="704" height="849" frameX="-40" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10007" x="2786" y="0" width="717" height="849" frameX="-27" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10008" x="2786" y="0" width="717" height="849" frameX="-27" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10009" x="3503" y="0" width="737" height="849" frameX="-7" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10010" x="3503" y="0" width="737" height="849" frameX="-7" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10011" x="4240" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10012" x="4240" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10013" x="4971" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10014" x="5702" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10015" x="5702" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10016" x="6433" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10017" x="6433" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10018" x="7164" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10019" x="7164" y="0" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10020" x="0" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10021" x="0" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10022" x="731" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10023" x="731" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10024" x="1462" y="849" width="724" height="849" frameX="-20" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10025" x="1462" y="849" width="724" height="849" frameX="-20" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10026" x="2186" y="849" width="741" height="849" frameX="-3" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10027" x="2186" y="849" width="741" height="849" frameX="-3" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10028" x="2927" y="849" width="725" height="849" frameX="-19" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10029" x="2927" y="849" width="725" height="849" frameX="-19" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10030" x="3652" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10031" x="3652" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10032" x="4383" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10033" x="4383" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10034" x="5114" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10035" x="5114" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10036" x="5845" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10037" x="5845" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10038" x="6576" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10039" x="6576" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10040" x="6576" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10041" x="6576" y="849" width="731" height="849" frameX="-13" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10042" x="7307" y="849" width="744" height="849"/>
+	<SubTexture name="sonichu anim instancia 10043" x="0" y="1698" width="744" height="849"/>
+	<SubTexture name="sonichu anim instancia 10044" x="744" y="1698" width="631" height="849" frameX="-113" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10045" x="1375" y="1698" width="631" height="849" frameX="-113" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10046" x="2006" y="1698" width="631" height="849" frameX="-113" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10047" x="2637" y="1698" width="631" height="849" frameX="-113" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10048" x="3268" y="1698" width="631" height="849" frameX="-113" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10049" x="3899" y="1698" width="631" height="849" frameX="-113" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10050" x="4530" y="1698" width="721" height="849" frameX="-23" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10051" x="4530" y="1698" width="721" height="849" frameX="-23" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10052" x="5251" y="1698" width="740" height="849" frameX="-4" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10053" x="5251" y="1698" width="740" height="849" frameX="-4" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10054" x="5991" y="1698" width="736" height="849" frameX="-8" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10055" x="5991" y="1698" width="736" height="849" frameX="-8" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10056" x="6727" y="1698" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10057" x="6727" y="1698" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10058" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10059" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10060" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10061" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10062" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10063" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10064" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10065" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10066" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10067" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10068" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10069" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10070" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10071" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10072" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10073" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10074" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10075" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10076" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10077" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10078" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10079" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10080" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10081" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10082" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10083" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10084" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10085" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10086" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10087" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10088" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10089" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10090" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10091" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10092" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10093" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10094" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu anim instancia 10095" x="0" y="2547" width="743" height="849" frameX="-1" frameY="0" frameWidth="744" frameHeight="849"/>
+	<SubTexture name="sonichu idle instancia 10000" x="743" y="2547" width="742" height="841"/>
+	<SubTexture name="sonichu idle instancia 10001" x="743" y="2547" width="742" height="841"/>
+	<SubTexture name="sonichu idle instancia 10002" x="1485" y="2547" width="741" height="841" frameX="-1" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10003" x="1485" y="2547" width="741" height="841" frameX="-1" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10004" x="2226" y="2547" width="734" height="841" frameX="-8" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10005" x="2226" y="2547" width="734" height="841" frameX="-8" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10006" x="2960" y="2547" width="729" height="841" frameX="-13" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10007" x="2960" y="2547" width="729" height="841" frameX="-13" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10008" x="3689" y="2547" width="739" height="841" frameX="-3" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10009" x="3689" y="2547" width="739" height="841" frameX="-3" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10010" x="4428" y="2547" width="618" height="841" frameX="-124" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10011" x="4428" y="2547" width="618" height="841" frameX="-124" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10012" x="5046" y="2547" width="618" height="841" frameX="-124" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10013" x="5046" y="2547" width="618" height="841" frameX="-124" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10014" x="5046" y="2547" width="618" height="841" frameX="-124" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu idle instancia 10015" x="5046" y="2547" width="618" height="841" frameX="-124" frameY="0" frameWidth="742" frameHeight="841"/>
+	<SubTexture name="sonichu sing down instancia 10000" x="5664" y="2547" width="1016" height="850"/>
+	<SubTexture name="sonichu sing down instancia 10001" x="5664" y="2547" width="1016" height="850"/>
+	<SubTexture name="sonichu sing down instancia 10002" x="6680" y="2547" width="925" height="850" frameX="-91" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10003" x="6680" y="2547" width="925" height="850" frameX="-91" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10004" x="0" y="3397" width="916" height="850" frameX="-100" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10005" x="0" y="3397" width="916" height="850" frameX="-100" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10006" x="916" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10007" x="916" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10008" x="1780" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10009" x="1780" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10010" x="1780" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10011" x="1780" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10012" x="2644" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10013" x="3508" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10014" x="4372" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing down instancia 10015" x="5236" y="3397" width="864" height="850" frameX="-152" frameY="0" frameWidth="1016" frameHeight="850"/>
+	<SubTexture name="sonichu sing left instancia 10000" x="6100" y="3397" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10001" x="6100" y="3397" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10002" x="7004" y="3397" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10003" x="7004" y="3397" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10004" x="0" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10005" x="0" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10006" x="904" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10007" x="904" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10008" x="1808" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10009" x="1808" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10010" x="1808" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10011" x="1808" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10012" x="2712" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10013" x="3616" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10014" x="4520" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing left instancia 10015" x="5424" y="4262" width="904" height="865"/>
+	<SubTexture name="sonichu sing right instancia 10000" x="6328" y="4262" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10001" x="6328" y="4262" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10002" x="7221" y="4262" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10003" x="7221" y="4262" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10004" x="0" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10005" x="0" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10006" x="893" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10007" x="893" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10008" x="1786" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10009" x="1786" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10010" x="1786" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10011" x="1786" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10012" x="2679" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10013" x="3572" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10014" x="4465" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing right instancia 10015" x="5358" y="5127" width="893" height="861"/>
+	<SubTexture name="sonichu sing up instancia 10000" x="6251" y="5127" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10001" x="6251" y="5127" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10002" x="6853" y="5127" width="642" height="1043" frameX="-43" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10003" x="6853" y="5127" width="642" height="1043" frameX="-43" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10004" x="7495" y="5127" width="685" height="1043"/>
+	<SubTexture name="sonichu sing up instancia 10005" x="7495" y="5127" width="685" height="1043"/>
+	<SubTexture name="sonichu sing up instancia 10006" x="0" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10007" x="0" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10008" x="602" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10009" x="602" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10010" x="602" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10011" x="602" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10012" x="1204" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10013" x="1806" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10014" x="2408" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+	<SubTexture name="sonichu sing up instancia 10015" x="3010" y="6170" width="602" height="1043" frameX="-83" frameY="0" frameWidth="685" frameHeight="1043"/>
+</TextureAtlas>

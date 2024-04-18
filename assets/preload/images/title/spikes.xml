@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spikes.png">
+<SubTexture name="anim0000" x="0" y="0" width="1320" height="437" frameX="0" frameY="-323" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anim0001" x="0" y="437" width="1320" height="441" frameX="0" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anim0002" x="0" y="878" width="1320" height="441" frameX="0" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anim0003" x="0" y="1319" width="1320" height="438" frameX="0" frameY="-322" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

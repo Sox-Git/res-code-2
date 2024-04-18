@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emblem.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emblem0000" x="4" y="4" width="1917" height="805"/>
+	<SubTexture name="emblem0001" x="1925" y="4" width="1917" height="805"/>
+	<SubTexture name="emblem0002" x="1925" y="4" width="1917" height="805"/>
+	<SubTexture name="emblem0003" x="4" y="813" width="1917" height="805"/>
+	<SubTexture name="emblem0004" x="4" y="813" width="1917" height="805"/>
+	<SubTexture name="emblem0005" x="1925" y="813" width="1917" height="805"/>
+	<SubTexture name="emblem0006" x="1925" y="813" width="1917" height="805"/>
+</TextureAtlas>

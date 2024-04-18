@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toofarstatic.png">
+<SubTexture name="idle0000" x="0" y="0" width="642" height="362" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0001" x="642" y="0" width="642" height="362" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0002" x="0" y="362" width="642" height="362" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0003" x="642" y="362" width="642" height="362" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0004" x="0" y="724" width="642" height="362" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0005" x="642" y="724" width="642" height="362" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0006" x="1284" y="0" width="642" height="362" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0007" x="1284" y="362" width="642" height="362" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+</TextureAtlas>
