@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				58
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				9,
+				8
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "redglove idle"
+		},
+		{
+			"offsets": [
+				-40,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "redglove left"
+		},
+		{
+			"offsets": [
+				-10,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "redglove right"
+		},
+		{
+			"offsets": [
+				14,
+				71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "redglove up"
+		},
+		{
+			"offsets": [
+				40,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "redglove down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LordX/redglove",
+	"position": [
+		-730,
+		-330
+	],
+	"healthicon": "redglove",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		176
+	],
+	"camera_position": [
+		180,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

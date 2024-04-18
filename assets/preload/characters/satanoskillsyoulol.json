@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				33,
+				-217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-42,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				104,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				104,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				191,
+				-187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "righy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Satanos/satanoskillsyoulol",
+	"position": [
+		-1070,
+		-900
+	],
+	"healthicon": "satanos-p2",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		153,
+		225
+	],
+	"camera_position": [
+		400,
+		560
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-18,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-72,
+				-219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-80,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-61,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XTerion/2D/xterion-2D",
+	"position": [
+		-60,
+		0
+	],
+	"healthicon": "terion",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		31,
+		162
+	],
+	"camera_position": [
+		80,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

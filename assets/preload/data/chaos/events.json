@@ -1,0 +1,426 @@
+{
+	"song": {
+		"events": [
+			[
+				21587.3015873016,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				30317.4603174603,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				31666.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				40555.5555555556,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				41904.7619047619,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				50714.2857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				52063.4920634921,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				61507.9365079365,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				62222.2222222223,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				80000.0000000001,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-super"
+					]
+				]
+			],
+			[
+				82142.8571428572,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				82539.6825396826,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				91349.2063492064,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				92698.4126984128,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				122549.603174603,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				122549.603174603,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				122550.603174603,
+				[
+					[
+						"Play Animation",
+						"AAAA",
+						"dad"
+					]
+				]
+			],
+			[
+				123174.603174603,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				132619.047619048,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				132620.047619048,
+				[
+					[
+						"Play Animation",
+						"Growl",
+						"dad"
+					]
+				]
+			],
+			[
+				133333.333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				142142.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				142143.857142857,
+				[
+					[
+						"Play Animation",
+						"Shut up",
+						"dad"
+					]
+				]
+			],
+			[
+				143492.063492064,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				153571.428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				153572.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				154920.634920635,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				1587.30158730159,
+				[
+					[
+						"Lyrics",
+						"Ha ha ha ha ha...--0xffd712",
+						"0.5"
+					]
+				]
+			],
+			[
+				2460.31746031746,
+				[
+					[
+						"Lyrics",
+						"Let's see how fast--0xffd712",
+						""
+					]
+				]
+			],
+			[
+				3809.52380952381,
+				[
+					[
+						"Lyrics",
+						"you can REALLY go!--0xffd712",
+						"1.27"
+					]
+				]
+			],
+			[
+				20952.380952381,
+				[
+					[
+						"Lyrics",
+						"EAT THIS!--0xffd712",
+						"0.64"
+					]
+				]
+			],
+			[
+				30476.1904761905,
+				[
+					[
+						"Lyrics",
+						"Come on!--0xffd712",
+						""
+					]
+				]
+			],
+			[
+				31111.1111111111,
+				[
+					[
+						"Lyrics",
+						"Step it up!--0xffd712",
+						"0.64"
+					]
+				]
+			],
+			[
+				40634.9206349206,
+				[
+					[
+						"Lyrics",
+						"HA HA HA HA!--0xffd712",
+						"1.27"
+					]
+				]
+			],
+			[
+				51428.5714285714,
+				[
+					[
+						"Lyrics",
+						"Too slow!--0xffd712",
+						"0.64"
+					]
+				]
+			],
+			[
+				61587.3015873016,
+				[
+					[
+						"Lyrics",
+						"You're finished!--0xffd712",
+						"0.64"
+					]
+				]
+			],
+			[
+				82222.2222222223,
+				[
+					[
+						"Lyrics",
+						"WHAT--0xffd712",
+						"0.32"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Lyrics",
+						"RRRAAAAAAA--0xffd712",
+						"1.27"
+					]
+				]
+			],
+			[
+				101904.761904762,
+				[
+					[
+						"Lyrics",
+						"I'll SHOW YOU!--0xffd712",
+						"0.96"
+					]
+				]
+			],
+			[
+				142698.412698413,
+				[
+					[
+						"Lyrics",
+						"SHUT UP!--0xffd712",
+						"0.79"
+					]
+				]
+			]
+		]
+	}
+}

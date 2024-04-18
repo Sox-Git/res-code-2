@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Chaotix_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Chaotix_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-134
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chaotix_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Chaotix_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Chaotix_UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ChotixXenotixAndChaotix/HD/chaotix",
+	"position": [
+		100,
+		90
+	],
+	"healthicon": "chaotix-beast",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		183,
+		249
+	],
+	"camera_position": [
+		-200,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

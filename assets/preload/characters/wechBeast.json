@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-100,
+				-15
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "idle",
+			"loop": false,
+			"name": "dance1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Wechidna/wechBeast",
+	"position": [
+		-670,
+		-880
+	],
+	"healthicon": "wechBeast",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		6,
+		37
+	],
+	"camera_position": [
+		260,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

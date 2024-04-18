@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				70
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "YcrJUSTDIE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/YCR-Mad-Cherribun-JustDIEAnim",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "ycr-pissy",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		-880,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-63,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "melt",
+			"loop": false,
+			"name": "melting"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Melthog/Melthog_melting",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "melthog2",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		164
+	],
+	"camera_position": [
+		50,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 9.5
+}

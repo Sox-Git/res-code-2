@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-3
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-3
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "down0",
+			"indices": [
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				89,
+				-15
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				-15
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "left0",
+			"indices": [
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "right0",
+			"indices": [
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				-23,
+				32
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				32
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "up0",
+			"indices": [
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				42,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "down-miss"
+		},
+		{
+			"offsets": [
+				-1,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "right-miss"
+		},
+		{
+			"offsets": [
+				72,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "left-miss"
+		},
+		{
+			"offsets": [
+				-23,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "up-miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/HD/needle-bf-encore",
+	"position": [
+		150,
+		350
+	],
+	"healthicon": "bunfriend-needlemouse",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

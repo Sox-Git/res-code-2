@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				46142.7170868347,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				47059.3837535014,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mylord"
+					]
+				]
+			],
+			[
+				48322.5416482383,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				93164.6469113961,
+				[
+					[
+						"Change Character",
+						"dad",
+						"HellBentX"
+					],
+					[
+						"Change Character",
+						"bf",
+						"HellBentBF"
+					]
+				]
+			]
+		]
+	}
+}

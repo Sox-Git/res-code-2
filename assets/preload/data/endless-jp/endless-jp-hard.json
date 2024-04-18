@@ -1,0 +1,10500 @@
+{
+	"song": {
+		"player1": "jp-bf",
+		"player2": "jp-majin",
+		"notes": [
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						600,
+						2,
+						300
+					],
+					[
+						1200,
+						1,
+						0
+					],
+					[
+						1400,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						2000,
+						2,
+						0
+					],
+					[
+						2100,
+						1,
+						200
+					],
+					[
+						1600,
+						0,
+						0
+					],
+					[
+						2400,
+						2,
+						0
+					],
+					[
+						2600,
+						0,
+						0
+					],
+					[
+						3000,
+						2,
+						0
+					],
+					[
+						2800,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						3800,
+						1,
+						300
+					],
+					[
+						4200,
+						2,
+						0
+					],
+					[
+						4300,
+						0,
+						0
+					],
+					[
+						4400,
+						3,
+						300
+					],
+					[
+						3200,
+						3,
+						0
+					],
+					[
+						3400,
+						0,
+						0
+					],
+					[
+						3600,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						5200,
+						0,
+						0
+					],
+					[
+						5400,
+						1,
+						700
+					],
+					[
+						6200,
+						3,
+						300
+					],
+					[
+						5300,
+						3,
+						0
+					],
+					[
+						4800,
+						1,
+						0
+					],
+					[
+						5000,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						6600,
+						0,
+						300
+					],
+					[
+						7600,
+						0,
+						0
+					],
+					[
+						7700,
+						2,
+						0
+					],
+					[
+						7000,
+						2,
+						0
+					],
+					[
+						7200,
+						1,
+						0
+					],
+					[
+						7400,
+						1,
+						0
+					],
+					[
+						7800,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						8000,
+						3,
+						0
+					],
+					[
+						8200,
+						0,
+						0
+					],
+					[
+						8400,
+						3,
+						0
+					],
+					[
+						8600,
+						2,
+						300
+					],
+					[
+						9000,
+						1,
+						0
+					],
+					[
+						9200,
+						0,
+						0
+					],
+					[
+						9400,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						9800,
+						2,
+						300
+					],
+					[
+						9600,
+						3,
+						0
+					],
+					[
+						10400,
+						1,
+						0
+					],
+					[
+						10600,
+						3,
+						0
+					],
+					[
+						10800,
+						1,
+						0
+					],
+					[
+						11000,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						11200,
+						0,
+						0
+					],
+					[
+						11300,
+						3,
+						0
+					],
+					[
+						11800,
+						0,
+						300
+					],
+					[
+						12200,
+						3,
+						300
+					],
+					[
+						11400,
+						1,
+						0
+					],
+					[
+						11600,
+						2,
+						0
+					],
+					[
+						12600,
+						1,
+						0
+					],
+					[
+						12200,
+						7,
+						0
+					],
+					[
+						12400,
+						6,
+						0
+					],
+					[
+						12600,
+						6,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						13400,
+						5,
+						300
+					],
+					[
+						12800,
+						1,
+						0
+					],
+					[
+						12900,
+						0,
+						0
+					],
+					[
+						12800,
+						6,
+						0
+					],
+					[
+						13000,
+						4,
+						0
+					],
+					[
+						13200,
+						7,
+						0
+					],
+					[
+						13000,
+						2,
+						0
+					],
+					[
+						13200,
+						1,
+						0
+					],
+					[
+						13800,
+						2,
+						0
+					],
+					[
+						14000,
+						1,
+						0
+					],
+					[
+						14200,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						14800,
+						2,
+						0
+					],
+					[
+						14900,
+						1,
+						200
+					],
+					[
+						14400,
+						0,
+						0
+					],
+					[
+						15200,
+						2,
+						0
+					],
+					[
+						15400,
+						0,
+						0
+					],
+					[
+						15800,
+						2,
+						0
+					],
+					[
+						15600,
+						1,
+						0
+					],
+					[
+						14800,
+						2,
+						0
+					],
+					[
+						14900,
+						1,
+						200
+					],
+					[
+						14400,
+						0,
+						0
+					],
+					[
+						15200,
+						2,
+						0
+					],
+					[
+						15400,
+						0,
+						0
+					],
+					[
+						15800,
+						2,
+						0
+					],
+					[
+						15600,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						16600,
+						1,
+						300
+					],
+					[
+						17000,
+						2,
+						0
+					],
+					[
+						17100,
+						0,
+						0
+					],
+					[
+						17200,
+						3,
+						300
+					],
+					[
+						16000,
+						3,
+						0
+					],
+					[
+						16200,
+						0,
+						0
+					],
+					[
+						16400,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						18000,
+						0,
+						0
+					],
+					[
+						18200,
+						1,
+						700
+					],
+					[
+						19000,
+						3,
+						300
+					],
+					[
+						18100,
+						3,
+						0
+					],
+					[
+						17600,
+						1,
+						0
+					],
+					[
+						17800,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						19400,
+						0,
+						300
+					],
+					[
+						20400,
+						0,
+						0
+					],
+					[
+						20500,
+						2,
+						0
+					],
+					[
+						19800,
+						2,
+						0
+					],
+					[
+						20000,
+						1,
+						0
+					],
+					[
+						20200,
+						1,
+						0
+					],
+					[
+						20600,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						20800,
+						3,
+						0
+					],
+					[
+						21000,
+						0,
+						0
+					],
+					[
+						21200,
+						3,
+						0
+					],
+					[
+						21400,
+						2,
+						300
+					],
+					[
+						21800,
+						1,
+						0
+					],
+					[
+						22000,
+						0,
+						0
+					],
+					[
+						22200,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						22600,
+						2,
+						300
+					],
+					[
+						22400,
+						3,
+						0
+					],
+					[
+						23200,
+						1,
+						0
+					],
+					[
+						23400,
+						3,
+						0
+					],
+					[
+						23600,
+						1,
+						0
+					],
+					[
+						23800,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24000,
+						0,
+						0
+					],
+					[
+						24100,
+						3,
+						0
+					],
+					[
+						24600,
+						0,
+						300
+					],
+					[
+						25000,
+						3,
+						300
+					],
+					[
+						24200,
+						1,
+						0
+					],
+					[
+						24400,
+						2,
+						0
+					],
+					[
+						25400,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						25800,
+						4,
+						0
+					],
+					[
+						25900,
+						7,
+						0
+					],
+					[
+						26000,
+						5,
+						0
+					],
+					[
+						26100,
+						6,
+						0
+					],
+					[
+						26200,
+						5,
+						1400
+					],
+					[
+						25600,
+						6,
+						0
+					],
+					[
+						26200,
+						2,
+						0
+					],
+					[
+						26600,
+						3,
+						0
+					],
+					[
+						26800,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						27200,
+						0,
+						0
+					],
+					[
+						27400,
+						3,
+						0
+					],
+					[
+						27600,
+						1,
+						0
+					],
+					[
+						27800,
+						2,
+						0
+					],
+					[
+						28000,
+						0,
+						0
+					],
+					[
+						28200,
+						2,
+						0
+					],
+					[
+						28400,
+						1,
+						0
+					],
+					[
+						28600,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						28800,
+						0,
+						0
+					],
+					[
+						28900,
+						2,
+						0
+					],
+					[
+						29000,
+						1,
+						300
+					],
+					[
+						29400,
+						0,
+						700
+					],
+					[
+						30200,
+						1,
+						700
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						31800,
+						2,
+						300
+					],
+					[
+						31000,
+						3,
+						0
+					],
+					[
+						31200,
+						0,
+						0
+					],
+					[
+						31400,
+						2,
+						0
+					],
+					[
+						31600,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						32600,
+						2,
+						700
+					],
+					[
+						32200,
+						1,
+						300
+					],
+					[
+						33400,
+						0,
+						700
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						34200,
+						3,
+						700
+					],
+					[
+						35000,
+						1,
+						700
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						35800,
+						2,
+						0
+					],
+					[
+						35800,
+						0,
+						1500
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						37400,
+						3,
+						0
+					],
+					[
+						37600,
+						2,
+						0
+					],
+					[
+						37800,
+						0,
+						0
+					],
+					[
+						38000,
+						1,
+						0
+					],
+					[
+						38200,
+						3,
+						0
+					],
+					[
+						38300,
+						0,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						38400,
+						5,
+						500
+					],
+					[
+						39800,
+						2,
+						700
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						40600,
+						3,
+						0
+					],
+					[
+						40700,
+						0,
+						0
+					],
+					[
+						40800,
+						1,
+						1300
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						42400,
+						0,
+						500
+					],
+					[
+						43000,
+						3,
+						300
+					],
+					[
+						42200,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						43400,
+						1,
+						300
+					],
+					[
+						43800,
+						2,
+						0
+					],
+					[
+						43900,
+						3,
+						0
+					],
+					[
+						44000,
+						0,
+						500
+					],
+					[
+						44600,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						45000,
+						2,
+						300
+					],
+					[
+						45400,
+						1,
+						1500
+					],
+					[
+						44800,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						47400,
+						1,
+						300
+					],
+					[
+						47800,
+						2,
+						300
+					],
+					[
+						47000,
+						2,
+						300
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						48200,
+						0,
+						300
+					],
+					[
+						48600,
+						3,
+						0
+					],
+					[
+						48700,
+						1,
+						0
+					],
+					[
+						48800,
+						2,
+						500
+					],
+					[
+						49400,
+						1,
+						700
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						50200,
+						0,
+						700
+					],
+					[
+						51000,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						51400,
+						4,
+						0
+					],
+					[
+						51500,
+						7,
+						0
+					],
+					[
+						51800,
+						0,
+						0
+					],
+					[
+						51900,
+						2,
+						0
+					],
+					[
+						52000,
+						1,
+						0
+					],
+					[
+						52100,
+						3,
+						0
+					],
+					[
+						52200,
+						1,
+						0
+					],
+					[
+						52300,
+						2,
+						0
+					],
+					[
+						52400,
+						0,
+						0
+					],
+					[
+						52500,
+						2,
+						0
+					],
+					[
+						52600,
+						1,
+						0
+					],
+					[
+						52700,
+						3,
+						0
+					],
+					[
+						51200,
+						6,
+						0
+					],
+					[
+						51600,
+						6,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						52800,
+						0,
+						0
+					],
+					[
+						52900,
+						2,
+						0
+					],
+					[
+						53000,
+						1,
+						0
+					],
+					[
+						53100,
+						3,
+						0
+					],
+					[
+						53200,
+						2,
+						0
+					],
+					[
+						53300,
+						0,
+						0
+					],
+					[
+						53400,
+						1,
+						300
+					],
+					[
+						54000,
+						0,
+						300
+					],
+					[
+						53800,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						54400,
+						2,
+						0
+					],
+					[
+						54500,
+						3,
+						0
+					],
+					[
+						54600,
+						1,
+						0
+					],
+					[
+						55000,
+						3,
+						300
+					],
+					[
+						54800,
+						0,
+						0
+					],
+					[
+						55600,
+						2,
+						0
+					],
+					[
+						55800,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						56200,
+						0,
+						300
+					],
+					[
+						57400,
+						1,
+						0
+					],
+					[
+						57500,
+						3,
+						0
+					],
+					[
+						56000,
+						3,
+						0
+					],
+					[
+						56600,
+						1,
+						0
+					],
+					[
+						56800,
+						3,
+						0
+					],
+					[
+						57000,
+						0,
+						0
+					],
+					[
+						57200,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						58200,
+						0,
+						0
+					],
+					[
+						58300,
+						2,
+						0
+					],
+					[
+						58400,
+						1,
+						0
+					],
+					[
+						58500,
+						3,
+						0
+					],
+					[
+						58600,
+						1,
+						0
+					],
+					[
+						58700,
+						2,
+						0
+					],
+					[
+						58800,
+						0,
+						0
+					],
+					[
+						58900,
+						2,
+						0
+					],
+					[
+						59000,
+						1,
+						0
+					],
+					[
+						59100,
+						3,
+						0
+					],
+					[
+						58000,
+						5,
+						900
+					],
+					[
+						57600,
+						4,
+						0
+					],
+					[
+						57800,
+						6,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						59200,
+						0,
+						0
+					],
+					[
+						59300,
+						2,
+						0
+					],
+					[
+						59400,
+						1,
+						0
+					],
+					[
+						59500,
+						3,
+						0
+					],
+					[
+						59600,
+						2,
+						0
+					],
+					[
+						59700,
+						0,
+						0
+					],
+					[
+						59800,
+						1,
+						300
+					],
+					[
+						60400,
+						0,
+						300
+					],
+					[
+						60200,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						60800,
+						2,
+						0
+					],
+					[
+						60900,
+						3,
+						0
+					],
+					[
+						61000,
+						1,
+						0
+					],
+					[
+						61400,
+						3,
+						300
+					],
+					[
+						61200,
+						0,
+						0
+					],
+					[
+						62000,
+						2,
+						0
+					],
+					[
+						62200,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						62600,
+						0,
+						300
+					],
+					[
+						63800,
+						1,
+						0
+					],
+					[
+						63900,
+						3,
+						0
+					],
+					[
+						62400,
+						3,
+						0
+					],
+					[
+						63000,
+						1,
+						0
+					],
+					[
+						63200,
+						3,
+						0
+					],
+					[
+						63400,
+						0,
+						0
+					],
+					[
+						63600,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						64000,
+						4,
+						0
+					],
+					[
+						64400,
+						7,
+						0
+					],
+					[
+						64200,
+						5,
+						0
+					],
+					[
+						64600,
+						2,
+						700
+					],
+					[
+						65400,
+						3,
+						700
+					],
+					[
+						64600,
+						6,
+						700
+					],
+					[
+						65400,
+						7,
+						700
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						66600,
+						0,
+						300
+					],
+					[
+						67000,
+						2,
+						300
+					],
+					[
+						66600,
+						4,
+						300
+					],
+					[
+						67000,
+						6,
+						300
+					],
+					[
+						66200,
+						2,
+						300
+					],
+					[
+						66200,
+						6,
+						300
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						67400,
+						1,
+						300
+					],
+					[
+						67800,
+						0,
+						700
+					],
+					[
+						67400,
+						1,
+						300
+					],
+					[
+						67800,
+						4,
+						700
+					],
+					[
+						67400,
+						5,
+						300
+					],
+					[
+						68600,
+						1,
+						700
+					],
+					[
+						68600,
+						5,
+						700
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						70200,
+						2,
+						300
+					],
+					[
+						69400,
+						4,
+						0
+					],
+					[
+						69600,
+						7,
+						0
+					],
+					[
+						69800,
+						4,
+						0
+					],
+					[
+						70000,
+						6,
+						0
+					],
+					[
+						70200,
+						4,
+						300
+					],
+					[
+						69400,
+						3,
+						700
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						70600,
+						1,
+						300
+					],
+					[
+						70600,
+						5,
+						300
+					],
+					[
+						71000,
+						7,
+						0
+					],
+					[
+						71200,
+						5,
+						0
+					],
+					[
+						71400,
+						6,
+						0
+					],
+					[
+						71600,
+						4,
+						0
+					],
+					[
+						71800,
+						7,
+						300
+					],
+					[
+						71800,
+						3,
+						300
+					],
+					[
+						71600,
+						0,
+						0
+					],
+					[
+						71400,
+						2,
+						0
+					],
+					[
+						71200,
+						1,
+						0
+					],
+					[
+						71000,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						72200,
+						2,
+						300
+					],
+					[
+						72200,
+						6,
+						300
+					],
+					[
+						72600,
+						0,
+						700
+					],
+					[
+						72600,
+						4,
+						700
+					],
+					[
+						73400,
+						3,
+						700
+					],
+					[
+						73400,
+						7,
+						700
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						75000,
+						6,
+						300
+					],
+					[
+						75000,
+						2,
+						300
+					],
+					[
+						74200,
+						0,
+						0
+					],
+					[
+						74400,
+						2,
+						0
+					],
+					[
+						74600,
+						1,
+						0
+					],
+					[
+						74800,
+						3,
+						0
+					],
+					[
+						74200,
+						4,
+						0
+					],
+					[
+						74400,
+						6,
+						0
+					],
+					[
+						74600,
+						5,
+						0
+					],
+					[
+						74800,
+						7,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						75400,
+						1,
+						300
+					],
+					[
+						75400,
+						5,
+						300
+					],
+					[
+						75800,
+						6,
+						700
+					],
+					[
+						76600,
+						7,
+						700
+					],
+					[
+						75800,
+						0,
+						1500
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						77400,
+						2,
+						700
+					],
+					[
+						78200,
+						3,
+						700
+					],
+					[
+						77400,
+						6,
+						700
+					],
+					[
+						78200,
+						7,
+						700
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						79400,
+						0,
+						300
+					],
+					[
+						79800,
+						2,
+						300
+					],
+					[
+						79400,
+						4,
+						300
+					],
+					[
+						79800,
+						6,
+						300
+					],
+					[
+						79000,
+						2,
+						300
+					],
+					[
+						79000,
+						6,
+						300
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						80200,
+						1,
+						300
+					],
+					[
+						80600,
+						0,
+						700
+					],
+					[
+						80200,
+						1,
+						300
+					],
+					[
+						80600,
+						4,
+						700
+					],
+					[
+						80200,
+						5,
+						300
+					],
+					[
+						81400,
+						1,
+						700
+					],
+					[
+						81400,
+						5,
+						700
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						83000,
+						2,
+						300
+					],
+					[
+						82200,
+						4,
+						0
+					],
+					[
+						82400,
+						7,
+						0
+					],
+					[
+						82600,
+						4,
+						0
+					],
+					[
+						82800,
+						6,
+						0
+					],
+					[
+						83000,
+						4,
+						300
+					],
+					[
+						82200,
+						3,
+						700
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						83400,
+						1,
+						300
+					],
+					[
+						83400,
+						5,
+						300
+					],
+					[
+						83800,
+						7,
+						0
+					],
+					[
+						84000,
+						5,
+						0
+					],
+					[
+						84200,
+						6,
+						0
+					],
+					[
+						84400,
+						4,
+						0
+					],
+					[
+						84600,
+						7,
+						300
+					],
+					[
+						84600,
+						3,
+						300
+					],
+					[
+						84400,
+						0,
+						0
+					],
+					[
+						84200,
+						2,
+						0
+					],
+					[
+						84000,
+						1,
+						0
+					],
+					[
+						83800,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						85000,
+						2,
+						300
+					],
+					[
+						85000,
+						6,
+						300
+					],
+					[
+						85400,
+						0,
+						700
+					],
+					[
+						85400,
+						4,
+						700
+					],
+					[
+						86200,
+						3,
+						700
+					],
+					[
+						86200,
+						7,
+						700
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						87800,
+						6,
+						300
+					],
+					[
+						87800,
+						2,
+						300
+					],
+					[
+						87000,
+						0,
+						0
+					],
+					[
+						87200,
+						2,
+						0
+					],
+					[
+						87400,
+						1,
+						0
+					],
+					[
+						87600,
+						3,
+						0
+					],
+					[
+						87000,
+						4,
+						0
+					],
+					[
+						87200,
+						6,
+						0
+					],
+					[
+						87400,
+						5,
+						0
+					],
+					[
+						87600,
+						7,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						88200,
+						1,
+						300
+					],
+					[
+						88200,
+						5,
+						300
+					],
+					[
+						88600,
+						2,
+						0
+					],
+					[
+						88900,
+						3,
+						0
+					],
+					[
+						89200,
+						2,
+						0
+					],
+					[
+						88600,
+						6,
+						0
+					],
+					[
+						88900,
+						7,
+						0
+					],
+					[
+						89200,
+						6,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						89600,
+						0,
+						0
+					],
+					[
+						89800,
+						2,
+						0
+					],
+					[
+						90000,
+						1,
+						0
+					],
+					[
+						90000,
+						5,
+						0
+					],
+					[
+						89800,
+						6,
+						0
+					],
+					[
+						89600,
+						4,
+						0
+					],
+					[
+						90200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						90200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						90300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						90400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						90500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						90400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						90600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						90800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						90700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						90800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						90900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						91000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						91000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						91100,
+						5,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						91200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						91200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						91300,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						91400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						91600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						91600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						91700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						91800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						91800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						91900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						92000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						92000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						92100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						92200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						92300,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						92400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						92500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						92400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						92600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						92600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						92700,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						92800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						92800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						92900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						92900,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						93000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						93200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						93200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						93300,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						93400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						93500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						93400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						93600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						93700,
+						7,
+						200,
+						"Majin Note"
+					],
+					[
+						93600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						93800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						94000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						94000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						94200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						94300,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						94200,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						94400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						94400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						94500,
+						4,
+						200,
+						"Majin Note"
+					],
+					[
+						94600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						94800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						94800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						95000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						95000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						95100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						95200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						95300,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						95200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						95400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						95600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						95600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						95700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						95800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						95800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						95900,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						96000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						96000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						96100,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						96200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						96200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						96400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						96300,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						96400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						96500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						96600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						96600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						96700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						96800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						96800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						96900,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						97000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						97200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						97100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						97200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						97300,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						97400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						97500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						97400,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						97600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						97600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						97700,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						97800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						98000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						97900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						98000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						98100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						98200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						98300,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						98200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						98400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						98500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						98400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						98600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						98700,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						98800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						98900,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						99000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						99000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						98800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						99100,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						99200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						99200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						99300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						99300,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						99400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						99500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						99600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						99600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						99800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						99700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						99800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						99900,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						100000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						100100,
+						7,
+						200,
+						"Majin Note"
+					],
+					[
+						100400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						100200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						100400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						100600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						100700,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						100600,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						100800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						100900,
+						4,
+						200,
+						"Majin Note"
+					],
+					[
+						101000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						101200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						101200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						101400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						101400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						101500,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						101600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						101700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						101600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						101800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						102000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						102200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						102000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						102100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						102200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						102300,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						102400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						102400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						102500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						102600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						102700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						102600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						102800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						102800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						102900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						103000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						103100,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						103200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						103200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						103300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						103400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						103400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						103500,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						103600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						103700,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						103600,
+						6,
+						300,
+						"Majin Note"
+					],
+					[
+						103800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						103900,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						104000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						104000,
+						3,
+						300,
+						"Majin Note"
+					],
+					[
+						104400,
+						0,
+						900,
+						"Majin Note"
+					],
+					[
+						104100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						104200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						104300,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						104400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						104500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						104600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						104700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						104900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						105000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						105100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						105200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						105300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						105400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						105500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						104750,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						104800,
+						5,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						105700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						105800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						105900,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						106000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						105800,
+						2,
+						300,
+						"Majin Note"
+					],
+					[
+						106200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						106400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						106100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						106200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						106300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						106400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						106500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						106600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						106700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						106600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						106800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						106800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						106900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						107000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						107100,
+						4,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						107200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						107300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						107400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						107500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						107600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						107700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						107600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						107800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						107800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						107900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						108000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						108000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						108100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						108200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						108200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						108300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						108400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						108500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						108600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						108400,
+						0,
+						900,
+						"Majin Note"
+					],
+					[
+						108700,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						108650,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						108750,
+						5,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						109000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						109100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						109200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						108800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						109300,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						109400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						109400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						109500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						109600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						109700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						109800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						109900,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						109600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						109700,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						109900,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						110000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						110000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						110100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						110200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						110200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						110300,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						110400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						110500,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						110500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						110600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						110700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						110700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						110800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						110800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						110900,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						111000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						111100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						111200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						111300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						111000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						111200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						111300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						111500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						111600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						111400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						111500,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						111600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						111700,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						111800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						111900,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						112000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						112000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						112100,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						112100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						112200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						112200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						112300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						112400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						112400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						112500,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						112600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						112600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						112700,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						112800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						112800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						112900,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						112900,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						113000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						113100,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						113100,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						113200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						113200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						113400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						113300,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						113500,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						113400,
+						5,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						113600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						113600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						113700,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						113700,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						113800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						113900,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						114000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						114100,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						114000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						113900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						114200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						114200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						114300,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						114400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						114400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						114500,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						114600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						114600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						114800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						114700,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						114800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						114900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						115000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						115000,
+						6,
+						300,
+						"Majin Note"
+					],
+					[
+						115100,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116200,
+						0,
+						0
+					],
+					[
+						116400,
+						3,
+						0
+					],
+					[
+						115400,
+						1,
+						300,
+						"Majin Note"
+					],
+					[
+						115200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						115300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						115400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						115500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						115600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						115700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						115800,
+						2,
+						0
+					],
+					[
+						115800,
+						7,
+						1500
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118200,
+						2,
+						300
+					],
+					[
+						116800,
+						1,
+						0
+					],
+					[
+						117000,
+						2,
+						0
+					],
+					[
+						117200,
+						0,
+						0
+					],
+					[
+						117400,
+						3,
+						0
+					],
+					[
+						117600,
+						1,
+						0
+					],
+					[
+						117800,
+						2,
+						0
+					],
+					[
+						118000,
+						0,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118600,
+						1,
+						300
+					],
+					[
+						119000,
+						2,
+						0
+					],
+					[
+						119200,
+						3,
+						0
+					],
+					[
+						119400,
+						1,
+						0
+					],
+					[
+						119800,
+						2,
+						0
+					],
+					[
+						119800,
+						6,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						120800,
+						2,
+						0
+					],
+					[
+						120900,
+						1,
+						0
+					],
+					[
+						120900,
+						5,
+						0
+					],
+					[
+						120800,
+						6,
+						0
+					],
+					[
+						121400,
+						0,
+						0
+					],
+					[
+						121500,
+						5,
+						0
+					],
+					[
+						121500,
+						1,
+						0
+					],
+					[
+						121400,
+						4,
+						0
+					],
+					[
+						120000,
+						5,
+						0
+					],
+					[
+						120000,
+						1,
+						0
+					],
+					[
+						121000,
+						6,
+						0
+					],
+					[
+						120400,
+						4,
+						0
+					],
+					[
+						120400,
+						0,
+						0
+					],
+					[
+						121000,
+						2,
+						0
+					],
+					[
+						121200,
+						3,
+						0
+					],
+					[
+						121200,
+						7,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						122200,
+						4,
+						700
+					],
+					[
+						121600,
+						7,
+						0
+					],
+					[
+						121600,
+						3,
+						0
+					],
+					[
+						121800,
+						1,
+						0
+					],
+					[
+						122000,
+						2,
+						0
+					],
+					[
+						121800,
+						5,
+						0
+					],
+					[
+						122000,
+						6,
+						0
+					],
+					[
+						122600,
+						1,
+						0
+					],
+					[
+						122200,
+						3,
+						0
+					],
+					[
+						122800,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						123200,
+						2,
+						0
+					],
+					[
+						123400,
+						3,
+						0
+					],
+					[
+						123600,
+						0,
+						0
+					],
+					[
+						124000,
+						2,
+						0
+					],
+					[
+						124400,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						126000,
+						4,
+						0
+					],
+					[
+						126100,
+						6,
+						0
+					],
+					[
+						124800,
+						3,
+						0
+					],
+					[
+						125200,
+						0,
+						0
+					],
+					[
+						125400,
+						2,
+						0
+					],
+					[
+						125600,
+						1,
+						0
+					],
+					[
+						125800,
+						2,
+						0
+					],
+					[
+						126000,
+						0,
+						0
+					],
+					[
+						126200,
+						5,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						126400,
+						2,
+						0
+					],
+					[
+						126600,
+						1,
+						0
+					],
+					[
+						126800,
+						3,
+						0
+					],
+					[
+						127200,
+						1,
+						0
+					],
+					[
+						127600,
+						0,
+						0
+					],
+					[
+						126400,
+						6,
+						0
+					],
+					[
+						126600,
+						4,
+						0
+					],
+					[
+						126800,
+						7,
+						0
+					],
+					[
+						127200,
+						5,
+						0
+					],
+					[
+						127400,
+						6,
+						0
+					],
+					[
+						127600,
+						4,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						128000,
+						3,
+						0
+					],
+					[
+						128200,
+						1,
+						0
+					],
+					[
+						128400,
+						2,
+						0
+					],
+					[
+						128000,
+						5,
+						0
+					],
+					[
+						128200,
+						6,
+						0
+					],
+					[
+						128400,
+						5,
+						0
+					],
+					[
+						129000,
+						2,
+						300
+					],
+					[
+						129400,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						129600,
+						2,
+						0
+					],
+					[
+						130000,
+						2,
+						0
+					],
+					[
+						130400,
+						2,
+						0
+					],
+					[
+						130800,
+						0,
+						0
+					],
+					[
+						131000,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						131200,
+						1,
+						0
+					],
+					[
+						131400,
+						2,
+						0
+					],
+					[
+						131600,
+						0,
+						0
+					],
+					[
+						132200,
+						7,
+						300
+					],
+					[
+						132200,
+						3,
+						300
+					],
+					[
+						132600,
+						0,
+						0
+					],
+					[
+						132600,
+						4,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						132800,
+						2,
+						0
+					],
+					[
+						132800,
+						6,
+						0
+					],
+					[
+						133200,
+						2,
+						0
+					],
+					[
+						133200,
+						6,
+						0
+					],
+					[
+						133600,
+						2,
+						0
+					],
+					[
+						133600,
+						6,
+						0
+					],
+					[
+						134000,
+						3,
+						0
+					],
+					[
+						134200,
+						0,
+						0
+					],
+					[
+						134000,
+						7,
+						0
+					],
+					[
+						134200,
+						4,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						135400,
+						4,
+						300
+					],
+					[
+						134400,
+						7,
+						0
+					],
+					[
+						134600,
+						5,
+						0
+					],
+					[
+						134800,
+						6,
+						0
+					],
+					[
+						135800,
+						7,
+						0
+					],
+					[
+						135000,
+						0,
+						0
+					],
+					[
+						134400,
+						2,
+						0
+					],
+					[
+						134800,
+						1,
+						0
+					],
+					[
+						135400,
+						0,
+						0
+					],
+					[
+						135800,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						136000,
+						6,
+						0
+					],
+					[
+						136400,
+						6,
+						0
+					],
+					[
+						136800,
+						6,
+						0
+					],
+					[
+						137200,
+						7,
+						0
+					],
+					[
+						137400,
+						4,
+						0
+					],
+					[
+						136000,
+						0,
+						0
+					],
+					[
+						136400,
+						3,
+						0
+					],
+					[
+						136800,
+						1,
+						0
+					],
+					[
+						137200,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						138600,
+						6,
+						300
+					],
+					[
+						137600,
+						6,
+						0
+					],
+					[
+						137800,
+						5,
+						0
+					],
+					[
+						138000,
+						7,
+						0
+					],
+					[
+						139000,
+						5,
+						0
+					],
+					[
+						137600,
+						3,
+						0
+					],
+					[
+						137800,
+						2,
+						0
+					],
+					[
+						138000,
+						1,
+						500
+					],
+					[
+						138600,
+						2,
+						0
+					],
+					[
+						138800,
+						1,
+						0
+					],
+					[
+						139000,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						140600,
+						2,
+						300
+					],
+					[
+						139200,
+						7,
+						0
+					],
+					[
+						139600,
+						4,
+						0
+					],
+					[
+						140000,
+						4,
+						0
+					],
+					[
+						140400,
+						4,
+						0
+					],
+					[
+						140600,
+						7,
+						0
+					],
+					[
+						139200,
+						3,
+						0
+					],
+					[
+						139400,
+						0,
+						0
+					],
+					[
+						139600,
+						2,
+						0
+					],
+					[
+						139800,
+						1,
+						0
+					],
+					[
+						140000,
+						2,
+						0
+					],
+					[
+						140200,
+						3,
+						0
+					],
+					[
+						140400,
+						0,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						140800,
+						0,
+						0
+					],
+					[
+						141000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						141000,
+						5,
+						300,
+						"Majin Note"
+					],
+					[
+						141200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						141400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						141600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						141400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						141500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						141600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						141700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						141800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						142000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						141900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						142000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						142100,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						142200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						142300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						142200,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						142400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						142400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						142500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						142600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						142800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						142800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						142900,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						143000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						143000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						143100,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						143200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						143300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						143200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						143400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						143500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						143600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						143700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						143800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						143600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						143800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						143900,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						144000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						144000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						144100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						144100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						144200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						144400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						144400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						144500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						144600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						144700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						144600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						144800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						144800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						145000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						145200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						145200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						144900,
+						7,
+						200,
+						"Majin Note"
+					],
+					[
+						145400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						145500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						145400,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						145600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						145600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						145700,
+						4,
+						200,
+						"Majin Note"
+					],
+					[
+						145800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						146000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						146000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						146200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						146300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						146200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						146400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						146500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						146400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						146600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						146800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						146800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						146900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						147000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						147000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						147100,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						147200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						147200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						147300,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						147400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						147400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						147600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						147500,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						147600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						147700,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						147800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						147900,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						148000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						147800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						148100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						148000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						148200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						148300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						148400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						148400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						148500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						148600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						148700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						148600,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						148800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						148800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						148900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						149100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						149200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						149300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						149000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						149200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						149400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						149500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						149400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						149600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						149700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						149600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						149800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						149900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						150000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						150100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						150200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						150200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						150000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						150300,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						150400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						150400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						150500,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						150500,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						150600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						150700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						150800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						150800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						150900,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						151000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						151100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						151000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						151200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						151300,
+						7,
+						200,
+						"Majin Note"
+					],
+					[
+						151400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						151600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						151600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						151800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						151900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						151800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						151200,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						152000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						152100,
+						4,
+						200,
+						"Majin Note"
+					],
+					[
+						152200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						152400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						152400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						152600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						152700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						152800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						152900,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						152600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						152800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						153000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						153200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						153200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						153300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						153400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						153500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						153400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						152000,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						153600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						153600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						153700,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						153800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						153900,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						153800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						154000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						154000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						154100,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						154200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						154300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						154400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						154400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						154500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						154600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						154600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						154700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						154800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						154900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						154800,
+						6,
+						300,
+						"Majin Note"
+					],
+					[
+						155000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						155100,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						155200,
+						7,
+						300,
+						"Majin Note"
+					],
+					[
+						155300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						155200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						155400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						155500,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						155600,
+						4,
+						900,
+						"Majin Note"
+					],
+					[
+						155600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						155900,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						156000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						156100,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						156200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						156300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						156400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						156500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						156600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						156700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						155850,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						155800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						155700,
+						3,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						156800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						156900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						157000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						157100,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						157200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						157300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						157400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						157000,
+						6,
+						300,
+						"Majin Note"
+					],
+					[
+						157400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						157500,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						157600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						157700,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						157600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						157800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						157800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						157900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						158000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						158000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						158100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						158200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						158300,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						158400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						158400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						158500,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						158600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						158800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						158700,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						158800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						158900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						159000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						159000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						159100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						159200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						159200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						159300,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						159400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						159400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						159500,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						159600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						159700,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						159800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						159900,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						159600,
+						4,
+						900,
+						"Majin Note"
+					],
+					[
+						159850,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						159950,
+						1,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						160000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						160100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						160200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						160300,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						160400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						160500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						160600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						160600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						160700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						160800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						160900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						160800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						160900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						161000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						161100,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						161100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						161200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						161200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						161300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						161400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						161500,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						161400,
+						7,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						161600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						161600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						161700,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						161800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						161700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						161900,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						161900,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						162000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						162000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						162100,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						162200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						162300,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						162400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						162500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						162200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						162400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						162500,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						162600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						162700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						162800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						162700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						162800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						162900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						163000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						163000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						163100,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						163200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						163200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						163300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						163300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						163400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						163500,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						163400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						163600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						163600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						163700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						163800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						163800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						163900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						164000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						164000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						164100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						164100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						164200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						164300,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						164300,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						164400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						164400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						164500,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						164600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						164700,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						164600,
+						5,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						164800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						164800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						164900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						164900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						165000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						165100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						165200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						165300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						165200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						165100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						165400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						165400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						165500,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						165600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						165600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						165700,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						165800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						165900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						166000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						165800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						166000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						166100,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						166200,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						166200,
+						6,
+						300,
+						"Majin Note"
+					],
+					[
+						166300,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						166400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						166500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						166600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						166700,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						166600,
+						1,
+						300,
+						"Majin Note"
+					],
+					[
+						167000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						167200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						166800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						166900,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						167000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						167100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						167200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						167300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						167400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						167600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						167500,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						167600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						167700,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						167800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						167900,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						167800,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						168000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						168000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						168100,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						168200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						168400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						168300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						168400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						168500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						168600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						168700,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						168600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						168800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						168800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						168900,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						169000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						169100,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						169200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						169200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						169300,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						169400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						169400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						169500,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						169600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						169600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						169700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						169700,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						169800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						170000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						170000,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						170100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						170200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						170300,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						170200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						170400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						170400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						170500,
+						7,
+						200,
+						"Majin Note"
+					],
+					[
+						170800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						170600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						170800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						171000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						171100,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						171000,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"changeBPM": false,
+				"bpm": 150,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						171200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						171200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						171300,
+						4,
+						200,
+						"Majin Note"
+					],
+					[
+						171400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						171600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						171600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						171800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						171800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						171900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						172000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						172100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						172000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						172200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						172400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						172400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						172500,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						172600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						172700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						172600,
+						3,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						172800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						172900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						173000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						172800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						173000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						173200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						173100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						173200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						173300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						173400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						173400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						173500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						173600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						173700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						173600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						173800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						174000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						173900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						174000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						174100,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						174200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						174300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						174200,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						174400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						174400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						174500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						174600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						174800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						174700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						174800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						174900,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						175000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						175100,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						175000,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						175200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						175200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						175300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						175400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						175500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						175600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						175600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						175700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						175800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						175800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						175900,
+						6,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						176000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						176000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						176100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						176300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						176100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						176200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						176400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						176400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						176500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						176600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						176700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						176600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						176800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						176900,
+						7,
+						200,
+						"Majin Note"
+					],
+					[
+						177200,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						177000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						177200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						177400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						177500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						177400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						176800,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						177600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						177700,
+						4,
+						200,
+						"Majin Note"
+					],
+					[
+						178000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						177800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						178000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						178200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						178300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						178200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						178400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						178500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						178400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						178600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						178800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						178800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						178900,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						179000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						179100,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						179000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						177600,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						179200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						179300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						179200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						179400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						179400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						179500,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						179600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						179700,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						179600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						179800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						179900,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						180000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						180100,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						180000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						180200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						180200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						180300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						180400,
+						6,
+						300,
+						"Majin Note"
+					],
+					[
+						180400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						180500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						180600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						180700,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						180800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						180900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						180800,
+						7,
+						300,
+						"Majin Note"
+					],
+					[
+						181000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						181100,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						181200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						181300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						181400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						181500,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						181600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						181200,
+						4,
+						900,
+						"Majin Note"
+					],
+					[
+						181700,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						181900,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						182100,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						182000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						181800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						182200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						182300,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						182400,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						182500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						182600,
+						6,
+						300,
+						"Majin Note"
+					],
+					[
+						183000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						182700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						182600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						182800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						182900,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						183000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						183100,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						183200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						183200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						183300,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						183400,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						183500,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						183600,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						183400,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						183600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						183700,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						183800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						183900,
+						0,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						184000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						184000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						184100,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						184200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						184300,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						184500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						184400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						184400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						184600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						184600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						184700,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						184800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						184800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						184900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						185000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						185000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						185100,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						185200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						185200,
+						4,
+						900,
+						"Majin Note"
+					],
+					[
+						185300,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						185400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						185500,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						185550,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						185450,
+						1,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						185600,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						185700,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						185800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						185900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						186000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						186100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						186200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						186200,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						186300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						186400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						186500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						186400,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						186500,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						186700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						186600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						186700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						186800,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						186900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						186800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						187000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						187100,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						187000,
+						7,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						187200,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						187200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						187300,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						187300,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						187400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						187500,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						187500,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						187600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						187600,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						187700,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						187800,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						187900,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						188000,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						188100,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						187800,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						188000,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						188100,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						188200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						188300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						188300,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						188400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						188500,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						188400,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						188600,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						188600,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						188700,
+						2,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						188800,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						188800,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						188900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						188900,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						189000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						189000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						189100,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						189200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						189200,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						189300,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						189400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						189400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						189500,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						189600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						189600,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						189700,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						189700,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						189800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						189900,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						190000,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						189900,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						190000,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						190100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						190200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						190300,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						190200,
+						5,
+						0,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						190400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						190400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						190500,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						190500,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						190600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						190700,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						190700,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						190800,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						190800,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						190900,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						191000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						191000,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						191100,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						191200,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						191200,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						191300,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						191400,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						191400,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						191500,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						191600,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						191600,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						191700,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						191800,
+						3,
+						0,
+						"Majin Note"
+					],
+					[
+						191850,
+						2,
+						0,
+						"Majin Note"
+					],
+					[
+						191900,
+						0,
+						0,
+						"Majin Note"
+					],
+					[
+						191950,
+						1,
+						0,
+						"Majin Note"
+					],
+					[
+						191800,
+						6,
+						300,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						192000,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						192100,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						192200,
+						7,
+						0,
+						"Majin Note"
+					],
+					[
+						192300,
+						4,
+						0,
+						"Majin Note"
+					],
+					[
+						192400,
+						6,
+						0,
+						"Majin Note"
+					],
+					[
+						192500,
+						5,
+						0,
+						"Majin Note"
+					],
+					[
+						192200,
+						1,
+						300,
+						"Majin Note"
+					],
+					[
+						192600,
+						2,
+						700,
+						"Majin Note"
+					],
+					[
+						192600,
+						6,
+						700,
+						"Majin Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"player3": "Invis",
+		"song": "endless-jp",
+		"validScore": true,
+		"speed": 3,
+		"gfVersion": "Invis",
+		"events": [],
+		"stage": "endless-jp",
+		"needsVoices": true,
+		"bpm": 150
+	}
+}

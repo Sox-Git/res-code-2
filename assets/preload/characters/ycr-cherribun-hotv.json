@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				239
+			],
+			"anim": "singUP",
+			"fps": 42,
+			"name": "YcrUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				132
+			],
+			"anim": "singLEFT",
+			"fps": 38,
+			"name": "YcrLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				54
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "YcrDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				127
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "YcrIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				199
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "YcrLAUGH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "YcrAHH"
+		},
+		{
+			"offsets": [
+				-36,
+				99
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YcrRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/YCR-Cherribun-HOTV",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		-170,
+		-330
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

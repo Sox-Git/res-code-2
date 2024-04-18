@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				508,
+				447
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				712,
+				351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				505,
+				328
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				535,
+				660
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				488,
+				374
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				489,
+				395
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/Esta-YCR",
+	"position": [
+		310,
+		460
+	],
+	"healthicon": "icon-estaycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		18,
+		16,
+		116
+	],
+	"camera_position": [
+		30,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "sl4sh bf death start",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "sl4sh bf dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "sl4sh bf death end",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/MarStarBro/Death/sl4sh_mar_gameover",
+	"position": [
+		-30,
+		360
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-300,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 7.99999999999999
+}

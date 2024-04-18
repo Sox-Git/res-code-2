@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-112,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-49,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-76,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-103,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-139,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Melthog/melthog_pico",
+	"position": [
+		40,
+		440
+	],
+	"healthicon": "pixelMeltPico",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		57,
+		21
+	],
+	"camera_position": [
+		-50,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 8.99999999999999
+}

@@ -1,0 +1,152 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				43,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-110,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-60,
+				235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				73,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-56,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				-290,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				-224,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				10,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				28
+			],
+			"anim": "dodgeL",
+			"fps": 24,
+			"name": "Ldodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				67
+			],
+			"anim": "dodgeR",
+			"fps": 24,
+			"name": "Rdodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tails/tailsalt",
+	"position": [
+		-70,
+		320
+	],
+	"healthicon": "tailsAlt",
+	"flip_x": true,
+	"healthbar_colors": [
+		246,
+		157,
+		63
+	],
+	"camera_position": [
+		150,
+		-50
+	],
+	"sing_duration": 5.49999999999999,
+	"scale": 1.4
+}

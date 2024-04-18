@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lost idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lost left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-44
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lost down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lost up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lost right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				39
+			],
+			"anim": "nublin",
+			"fps": 24,
+			"name": "lost nublin",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "alt idle"
+		},
+		{
+			"offsets": [
+				136,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt left"
+		},
+		{
+			"offsets": [
+				9,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "alt down"
+		},
+		{
+			"offsets": [
+				-32,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt right"
+		},
+		{
+			"offsets": [
+				-40,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "alt up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LostAndLukas/lospuple",
+	"position": [
+		0,
+		80
+	],
+	"healthbar_colors2": [
+		102,
+		50,
+		57
+	],
+	"healthicon": "icon-lost",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		50,
+		57
+	],
+	"camera_position": [
+		265,
+		155
+	],
+	"sing_duration": 6.1,
+	"scale": 0.55
+}

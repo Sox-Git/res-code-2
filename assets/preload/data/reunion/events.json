@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				7272.72727272727,
+				[
+					[
+						"Play Animation",
+						"in",
+						"BF"
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Change Character",
+						"0",
+						"merphi"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				-16
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left Fail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-84
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down Fail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				28
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up Fail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-27
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right Fail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-43
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-119
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/HD/Curse_BF_Mad",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		191,
+		255
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

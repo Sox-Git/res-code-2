@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lukas idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lukas left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lukas down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lukas up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lukas right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				49,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "lukas miss left"
+		},
+		{
+			"offsets": [
+				7,
+				-41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "lukas miss down"
+		},
+		{
+			"offsets": [
+				-20,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "lukas miss up"
+		},
+		{
+			"offsets": [
+				-37,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "lukas miss right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LostAndLukas/lukas",
+	"position": [
+		133,
+		43
+	],
+	"healthbar_colors2": [
+		236,
+		104,
+		47
+	],
+	"healthicon": "icon-lukas",
+	"flip_x": true,
+	"healthbar_colors": [
+		236,
+		104,
+		47
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.55
+}

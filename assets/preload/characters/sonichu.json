@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonichu idle"
+		},
+		{
+			"offsets": [
+				189,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonichu sing left"
+		},
+		{
+			"offsets": [
+				-29,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonichu sing up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sonichu sing down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-124,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonichu sing right"
+		},
+		{
+			"offsets": [
+				-4,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "sonichu anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonichuAndChris/sonichu",
+	"position": [
+		-350,
+		-50
+	],
+	"healthicon": "sonichu",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		230,
+		105
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

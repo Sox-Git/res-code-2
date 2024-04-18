@@ -1,0 +1,541 @@
+{
+	"song": {
+		"events": [
+			[
+				66250,
+				[
+					[
+						"Play Animation",
+						"uhoh",
+						"dad"
+					]
+				]
+			],
+			[
+				88562.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"curse_pissbaby"
+					]
+				]
+			],
+			[
+				88625,
+				[
+					[
+						"Play Animation",
+						"admit",
+						"dad"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Curse_BF_Mad"
+					]
+				]
+			],
+			[
+				106000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				107500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				108500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				110500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				111500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				113500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				114500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				115500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				116500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				117500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				119500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				120500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				121500,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"curse_happy"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Curse_BF"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				127000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				130000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				133000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				135000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				147000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148000,
+				[
+					[
+						"Play Animation",
+						"ok",
+						"dad"
+					]
+				]
+			],
+			[
+				155333.333333333,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

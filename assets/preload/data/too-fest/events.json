@@ -1,0 +1,221 @@
+{
+	"song": {
+		"events": [
+			[
+				32000,
+				[
+					[
+						"Lyrics",
+						"You're too slow!--0x0058b7",
+						"1.25"
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Lyrics",
+						"Come on!--0x0058b7",
+						""
+					]
+				]
+			],
+			[
+				43333.3333333333,
+				[
+					[
+						"Lyrics",
+						"Step it up!--0x0058b7",
+						"0.64"
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Lyrics",
+						"Here, i'll show you!--0x0058b7",
+						"1.27"
+					]
+				]
+			],
+			[
+				75916.6666666667,
+				[
+					[
+						"Chroma Video",
+						"explosion",
+						""
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Chroma Video",
+						"mlg",
+						""
+					]
+				]
+			],
+			[
+				76003.4722222222,
+				[
+					[
+						"Chroma Video",
+						"glasses",
+						""
+					]
+				]
+			],
+			[
+				77500,
+				[
+					[
+						"Chroma Video",
+						"weed",
+						""
+					]
+				]
+			],
+			[
+				78666.6666666667,
+				[
+					[
+						"Chroma Video",
+						"guns",
+						""
+					]
+				]
+			],
+			[
+				79750,
+				[
+					[
+						"Chroma Video",
+						"hitmarkers",
+						""
+					]
+				]
+			],
+			[
+				85750,
+				[
+					[
+						"Chroma Video",
+						"noscope",
+						""
+					]
+				]
+			],
+			[
+				86083.3333333333,
+				[
+					[
+						"Chroma Video",
+						"noscope",
+						""
+					]
+				]
+			],
+			[
+				86416.6666666666,
+				[
+					[
+						"Chroma Video",
+						"noscope",
+						""
+					]
+				]
+			],
+			[
+				86666.6666666666,
+				[
+					[
+						"Chroma Video",
+						"explosion",
+						""
+					]
+				]
+			],
+			[
+				88250,
+				[
+					[
+						"Chroma Video",
+						"weed",
+						""
+					]
+				]
+			],
+			[
+				96916.6666666666,
+				[
+					[
+						"Chroma Video",
+						"noscope",
+						""
+					]
+				]
+			],
+			[
+				97326.3888888888,
+				[
+					[
+						"Chroma Video",
+						"hitmarkers",
+						""
+					]
+				]
+			],
+			[
+				97329.8611111111,
+				[
+					[
+						"Chroma Video",
+						"explosion",
+						""
+					]
+				]
+			],
+			[
+				99333.3333333333,
+				[
+					[
+						"Lyrics",
+						"Too easy.--0x0058b7",
+						"0.64"
+					]
+				]
+			],
+			[
+				100416.666666667,
+				[
+					[
+						"Lyrics",
+						"Piece of cake!--0x0058b7",
+						"0.91"
+					]
+				]
+			],
+			[
+				128666.666666666,
+				[
+					[
+						"Chroma Video",
+						"glasses",
+						""
+					],
+					[
+						"Lyrics",
+						"Hey! We should do this again sometime!--0x0058b7",
+						"1.83"
+					]
+				]
+			]
+		]
+	}
+}

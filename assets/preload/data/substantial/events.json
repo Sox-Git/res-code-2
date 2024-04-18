@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				168342.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"xterion-2D"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				168685.714285714,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

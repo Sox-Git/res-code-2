@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-20
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "play",
+			"indices": [],
+			"name": "Enter idle"
+		},
+		{
+			"offsets": [
+				140,
+				-20
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [
+				1
+			],
+			"name": "Enter idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NormalCD/CD_Enter",
+	"position": [
+		-1050,
+		-220
+	],
+	"healthicon": "normal",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		125,
+		160
+	],
+	"camera_position": [
+		-430,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

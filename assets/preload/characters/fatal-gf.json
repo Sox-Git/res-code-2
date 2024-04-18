@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf-dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GF/Pixel/gf-fatal",
+	"position": [
+		-60,
+		-120
+	],
+	"healthicon": "sOn!c",
+	"flip_x": false,
+	"healthbar_colors": [
+		21,
+		68,
+		204
+	],
+	"camera_position": [
+		-350,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 5.5
+}

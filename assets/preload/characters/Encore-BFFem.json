@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-28,
+				52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bfem idle"
+		},
+		{
+			"offsets": [
+				117,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfem left"
+		},
+		{
+			"offsets": [
+				13,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bfem down"
+		},
+		{
+			"offsets": [
+				-61,
+				249
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bfem up"
+		},
+		{
+			"offsets": [
+				-63,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bfem right"
+		},
+		{
+			"offsets": [
+				23,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "down bfem miss"
+		},
+		{
+			"offsets": [
+				155,
+				74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "left bfem miss"
+		},
+		{
+			"offsets": [
+				-68,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "right bfem miss"
+		},
+		{
+			"offsets": [
+				-58,
+				249
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "up bfem miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/Skins/bfem_encore",
+	"position": [
+		20,
+		290
+	],
+	"healthicon": "fembf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		290,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

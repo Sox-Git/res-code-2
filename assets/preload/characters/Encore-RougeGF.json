@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				171
+			],
+			"anim": "danceLeft",
+			"fps": 20,
+			"name": "DanceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				171
+			],
+			"anim": "danceRight",
+			"fps": 20,
+			"name": "DanceRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF/Skins/RougeGF",
+	"position": [
+		-50,
+		-150
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

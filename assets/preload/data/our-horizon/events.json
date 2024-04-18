@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				4.00641025641026,
+				[
+					[
+						"Genesis",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				89738.5001441605,
+				[
+					[
+						"Lyrics",
+						"Yeah, whatever.",
+						"1.26"
+					]
+				]
+			],
+			[
+				91469.2693749297,
+				[
+					[
+						"Lyrics",
+						"Having too much fun.",
+						"1.26"
+					]
+				]
+			],
+			[
+				93103.8847595451,
+				[
+					[
+						"Lyrics",
+						"And tails can wait for now.",
+						"1.83"
+					]
+				]
+			],
+			[
+				95500.0386056989,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Chaotix"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-holding-gf"
+					]
+				]
+			],
+			[
+				224161.577067237,
+				[
+					[
+						"Change Character",
+						"bf",
+						"chaotix_bf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"beast_chaotix"
+					]
+				]
+			],
+			[
+				273392.346298006,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-holding-gf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Chaotix"
+					]
+				]
+			]
+		]
+	}
+}

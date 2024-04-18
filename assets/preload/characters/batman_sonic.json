@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				194,
+				387
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				319,
+				377
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				416,
+				227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				206,
+				486
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				172,
+				292
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BatmanSonic/batman_sonic",
+	"position": [
+		-130,
+		180
+	],
+	"healthicon": "icon-batman",
+	"flip_x": false,
+	"healthbar_colors": [
+		18,
+		16,
+		116
+	],
+	"camera_position": [
+		280,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

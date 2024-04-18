@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				-25
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "last-time",
+			"loop": false,
+			"name": "anim-last-time"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "ywga",
+			"loop": false,
+			"name": "anim-ywga"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/xeno-final-p2-2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fe-p2-xeno",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		6,
+		117
+	],
+	"camera_position": [
+		90,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

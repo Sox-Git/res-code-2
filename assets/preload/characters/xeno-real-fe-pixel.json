@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-52
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-52
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				113,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "boo",
+			"indices": [],
+			"name": "boo"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/XenoAndGrimbo/Pixel/xeno-real-fe-pix",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "FE_pixel_2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		47,
+		124
+	],
+	"camera_position": [
+		50,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 9.00000000000001
+}

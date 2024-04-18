@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-52,
+				41
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-81,
+				41
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF/Skins/GF_cat",
+	"position": [
+		60,
+		-110
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

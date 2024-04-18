@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-50
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Sonic_EXE_Pixel idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Sonic_EXE_Pixel NOTE UP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE DOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				-41
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Sonic_EXE_Pixel NOTE RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/XenoAndGrimbo/Pixel/Sonic_EXE_Pixel",
+	"position": [
+		60,
+		110
+	],
+	"healthicon": "Ycrpixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		75,
+		255
+	],
+	"camera_position": [
+		-310,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 9
+}

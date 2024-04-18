@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-44,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle instancia "
+		},
+		{
+			"offsets": [
+				-47,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instancia "
+		},
+		{
+			"offsets": [
+				-52,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instancia "
+		},
+		{
+			"offsets": [
+				-22,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "fl instancia "
+		},
+		{
+			"offsets": [
+				-56,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "df instancia "
+		},
+		{
+			"offsets": [
+				-52,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upf instancia "
+		},
+		{
+			"offsets": [
+				-67,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rf instancia "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instancia ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				73
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instancia ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicLMN/limon",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "icon-SBF",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		160,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

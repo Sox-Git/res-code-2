@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				46,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				-24,
+				54
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				38,
+				-79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-64,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/HD/BF_Requital",
+	"position": [
+		-710,
+		380
+	],
+	"healthicon": "bunfriend",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-270,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

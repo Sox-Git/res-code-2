@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": " Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				224,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": " Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": " Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": " Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				-84
+			],
+			"anim": "Anim3",
+			"fps": 24,
+			"name": "Trans2",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				198,
+				-82
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Trans2",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Requital/RequitalAnim3",
+	"position": [
+		-70,
+		10
+	],
+	"healthicon": "requital",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		102,
+		0
+	],
+	"camera_position": [
+		-518,
+		111
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

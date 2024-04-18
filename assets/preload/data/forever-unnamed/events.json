@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				34782.6086956522,
+				[
+					[
+						"Change Character",
+						"1",
+						"no-name-p2"
+					]
+				]
+			],
+			[
+				48695.652173913,
+				[
+					[
+						"Change Character",
+						"1",
+						"no-name"
+					]
+				]
+			],
+			[
+				63260.8695652174,
+				[
+					[
+						"Change Character",
+						"1",
+						"no-name-p2"
+					]
+				]
+			],
+			[
+				92391.3043478263,
+				[
+					[
+						"Change Character",
+						"1",
+						"no-name"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-156
+			],
+			"anim": "singLEFT",
+			"fps": 26,
+			"name": "Burning_Assets Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-251,
+				-169
+			],
+			"anim": "singRIGHT",
+			"fps": 26,
+			"name": "Burning_Assets Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-163,
+				-162
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "Burning_Assets Note Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-171
+			],
+			"anim": "singDOWN",
+			"fps": 26,
+			"name": "Burning_Assets Note Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-185,
+				-163
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "Burning_Assets Idle Dance0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SHPAndGenesys/Burning_Assets",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "burning",
+	"flip_x": false,
+	"healthbar_colors": [
+		16,
+		29,
+		29
+	],
+	"camera_position": [
+		-100,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

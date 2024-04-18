@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-148
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left-",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-148
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right-",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-98
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up-",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-151
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down-",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle-",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-145
+			],
+			"anim": "in",
+			"fps": 24,
+			"name": "inClassic",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss-"
+		},
+		{
+			"offsets": [
+				8,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss-"
+		},
+		{
+			"offsets": [
+				8,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss-"
+		},
+		{
+			"offsets": [
+				8,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss-"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FutagamiAndMerphi/merphi_chaos",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "merphiChaos",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		15,
+		15
+	],
+	"camera_position": [
+		20,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

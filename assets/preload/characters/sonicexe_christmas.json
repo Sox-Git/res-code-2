@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-87
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down 0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right 0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				44
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-87
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				44
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				-7
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				5
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "EXE DIES",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				35,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "DETH LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				5
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "SONIC DETH CONFIRM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				28
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "haha",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/Newsonicexe",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "sonicexep",
+	"flip_x": true,
+	"healthbar_colors": [
+		12,
+		6,
+		117
+	],
+	"camera_position": [
+		300,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

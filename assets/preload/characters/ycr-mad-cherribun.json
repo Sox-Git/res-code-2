@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				42,
+				127
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "idle",
+			"indices": [],
+			"name": "YcrMadIDLE"
+		},
+		{
+			"offsets": [
+				252,
+				122
+			],
+			"loop": false,
+			"fps": 38,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YcrMadLEFT"
+		},
+		{
+			"offsets": [
+				609,
+				222
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YcrMadUP"
+		},
+		{
+			"offsets": [
+				-56,
+				80
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YcrMadRIGHT"
+		},
+		{
+			"offsets": [
+				160,
+				34
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YcrMadDOWN"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				210
+			],
+			"anim": "laugh",
+			"fps": 26,
+			"name": "YcrLAUGH",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/YCR-Mad-Cherribun",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "ycr-pissy",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		30,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

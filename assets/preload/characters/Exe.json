@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Exe Idle"
+		},
+		{
+			"offsets": [
+				251,
+				260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Exe left"
+		},
+		{
+			"offsets": [
+				210,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Exe Down"
+		},
+		{
+			"offsets": [
+				114,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Exe Up"
+		},
+		{
+			"offsets": [
+				20,
+				247
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Exe Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FakerAndExe/Exe_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		16,
+		107
+	],
+	"camera_position": [
+		-140,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

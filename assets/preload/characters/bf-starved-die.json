@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "omnomnom"
+		},
+		{
+			"offsets": [
+				100,
+				-293
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "spookman"
+		},
+		{
+			"offsets": [
+				100,
+				-293
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "spookman"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FurnaceSonicAndStarved/Death/starved_die",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "starved",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		36,
+		0
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

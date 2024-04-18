@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-119,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				9,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-15,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				74,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SHTails/secrethistorytails",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "secret",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		145,
+		82
+	],
+	"camera_position": [
+		200,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

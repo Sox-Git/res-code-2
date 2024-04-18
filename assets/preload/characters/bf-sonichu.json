@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf dance idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-44
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				132
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				53
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				127
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				32
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf miss right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				220,
+				82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDEATH",
+			"loop": false,
+			"name": "bf dies instancia"
+		},
+		{
+			"offsets": [
+				221,
+				-189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF death loop instancia"
+		},
+		{
+			"offsets": [
+				221,
+				-126
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF death comfirm instancia"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/HD/bf-sonichu",
+	"position": [
+		-200,
+		220
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

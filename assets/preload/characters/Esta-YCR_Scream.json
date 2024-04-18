@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				736,
+				820
+			],
+			"anim": "scream",
+			"fps": 60,
+			"name": "scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/Esta-YCR_Scream",
+	"position": [
+		310,
+		460
+	],
+	"healthicon": "icon-estaycr-scream",
+	"flip_x": false,
+	"healthbar_colors": [
+		18,
+		16,
+		116
+	],
+	"camera_position": [
+		-80,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				542,
+				480
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "justdie",
+			"loop": false,
+			"name": "Just die"
+		},
+		{
+			"offsets": [
+				543,
+				480
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "afterscream",
+			"loop": true,
+			"name": "After-scream idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/Esta-YCR_JustDie",
+	"position": [
+		310,
+		460
+	],
+	"healthicon": "icon-estaycr-justdie",
+	"flip_x": false,
+	"healthbar_colors": [
+		18,
+		16,
+		116
+	],
+	"camera_position": [
+		30,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

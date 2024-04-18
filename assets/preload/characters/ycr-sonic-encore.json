@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ycr sonic idle"
+		},
+		{
+			"offsets": [
+				71,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ycr sonic up"
+		},
+		{
+			"offsets": [
+				72,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ycr sonic left"
+		},
+		{
+			"offsets": [
+				77,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ycr sonic right"
+		},
+		{
+			"offsets": [
+				78,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ycr sonic down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/XenoAndGrimbo/Pixel/sonic-encore-ycr",
+	"position": [
+		0,
+		580
+	],
+	"healthicon": "icon-pixelsonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		64,
+		64,
+		160
+	],
+	"camera_position": [
+		-210,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 9
+}

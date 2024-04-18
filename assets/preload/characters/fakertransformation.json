@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				101,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TransformationRIGHT instance"
+		},
+		{
+			"offsets": [
+				168,
+				275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "TransformationUP instance"
+		},
+		{
+			"offsets": [
+				237,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "TransformationLEFT instance"
+		},
+		{
+			"offsets": [
+				110,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "TransformationRIGHT instance"
+		},
+		{
+			"offsets": [
+				246,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "TransformationDOWN instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FakerAndExe/Faker_Transformation",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "faker",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		126
+	],
+	"camera_position": [
+		-150,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

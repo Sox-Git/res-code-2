@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				221,
+				-126
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF death comfirm instancia"
+		},
+		{
+			"offsets": [
+				221,
+				-189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF death loop instancia"
+		},
+		{
+			"offsets": [
+				220,
+				82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "bf dies instancia"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BF/HD/bf-sonichu",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

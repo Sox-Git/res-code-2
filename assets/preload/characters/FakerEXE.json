@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-83,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-82,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-66,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-77,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				27,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Revaled",
+			"indices": [],
+			"name": "revaled"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/Fak",
+	"position": [
+		80,
+		60
+	],
+	"healthicon": "fake",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		0,
+		168
+	],
+	"camera_position": [
+		220,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

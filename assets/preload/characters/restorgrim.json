@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-430,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-382,
+				-75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-287,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-527,
+				-61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-138
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "l",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SkinwalkerAndGrimeware/restorgrime",
+	"position": [
+		-650,
+		-10
+	],
+	"healthicon": "icon-skinwalker",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		60,
+		130
+	],
+	"camera_position": [
+		340,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

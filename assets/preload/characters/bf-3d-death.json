@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "died",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/3D/Death/boyfriend-3d-death",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "bf-3d",
+	"flip_x": true,
+	"healthbar_colors": [
+		70,
+		139,
+		208
+	],
+	"camera_position": [
+		-50,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
